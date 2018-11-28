@@ -1,6 +1,4 @@
-# Getting Started
-
-## Prerequisites
+# Prerequisites
 
 * Personal GitHub Account
 * Organization account for your classroom. Note that best practice is to have an different **organization per class per year**.
