@@ -9,11 +9,12 @@
 
 ![Assignment workflow](GitHub2FJupyterHubWorkflow-dfb223a9-2cf3-4a9d-9da4-3a7175ea283c.png)
 
-[[Lucidchart file for editing](https://www.lucidchart.com/invitations/accept/a3c2c3ed-d664-4c3a-8f26-e68fc2aa6cba)
-
 ![Lecture Workflow](GitHub2FJupyterHubLecturesWorkflow-6941c84d-791b-41c2-a48a-8a403e9f33b0.png)
 
-[Lucidchart file for editing](https://www.lucidchart.com/invitations/accept/76742259-596c-4a33-a76e-ee48dde5d240)
+
+** Want to suggest changes to the diagrams?
+[Lucidchart (assingment) file for editing](https://www.lucidchart.com/invitations/accept/a3c2c3ed-d664-4c3a-8f26-e68fc2aa6cba)
+[Lucidchart (lectures) file for editing](https://www.lucidchart.com/invitations/accept/76742259-596c-4a33-a76e-ee48dde5d240)
 
 
 
