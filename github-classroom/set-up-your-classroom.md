@@ -63,7 +63,3 @@ Possible ways of generating feedback include:
 - Write to a script .pyb that is kept insync
     - Student views inside github
 - PDF feedback via CANVAS
-
-#### Sample Classroom
-
-[Sample Classroom](https://classroom.github.com/classrooms/42362824-sample-classroom-jupyterhub-at-brown)
