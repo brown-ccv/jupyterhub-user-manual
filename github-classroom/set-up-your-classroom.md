@@ -41,9 +41,6 @@ To create assignments, visit your classroom home and select upper right button t
 
 ![](Untitled-c529885f-2a07-4515-9439-170b146e2fd1.png)
 
-***Sample Assignment Link**
-
-[https://classroom.github.com/a/3AS1qzhy](https://classroom.github.com/a/3AS1qzhy)
 
 ## Grading and Feedback
 
