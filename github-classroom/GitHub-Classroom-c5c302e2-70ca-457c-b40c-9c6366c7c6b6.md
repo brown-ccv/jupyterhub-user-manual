@@ -1,36 +1,21 @@
 # **GitHub Classroom** 
 
-[GitHub Classroom](https://classroom.github.com)
+[GitHub Classroom](https://classroom.github.com) makes it easy to distribute materials and assigments to students while maintaining the oweneship of all materials in your own organization. The following diagrams will help you undestrand these workflows. To get started follow to the [Getting Started](./Getting-Started-8438bf05-0895-472c-9204-d76af01b3fc7.md) section
 
 ---
 
 ## Workflow Overview:
 
-This is the propose workflow distribution of materials of our JupyterHub-Tier2 offering
 
-## Assignment workflow
+![Assignment workflow](GitHub2FJupyterHubWorkflow-dfb223a9-2cf3-4a9d-9da4-3a7175ea283c.png)
 
-![](GitHub2FJupyterHubWorkflow-dfb223a9-2cf3-4a9d-9da4-3a7175ea283c.png)
+[[Lucidchart file for editing](https://www.lucidchart.com/invitations/accept/a3c2c3ed-d664-4c3a-8f26-e68fc2aa6cba)
 
-[GitHub/JupyterHub Workflow | Lucidchart](https://www.lucidchart.com/invitations/accept/a3c2c3ed-d664-4c3a-8f26-e68fc2aa6cba)
+![Lecture Workflow](GitHub2FJupyterHubLecturesWorkflow-6941c84d-791b-41c2-a48a-8a403e9f33b0.png)
 
-## Lecture Workflow
+[Lucidchart file for editing](https://www.lucidchart.com/invitations/accept/76742259-596c-4a33-a76e-ee48dde5d240)
 
-![](GitHub2FJupyterHubLecturesWorkflow-6941c84d-791b-41c2-a48a-8a403e9f33b0.png)
 
-[GitHub/JupyterHub Lectures Workflow | Lucidchart](https://www.lucidchart.com/invitations/accept/76742259-596c-4a33-a76e-ee48dde5d240)
-
-# User Guides
-
----
-
-[Getting Started](./Getting-Started-8438bf05-0895-472c-9204-d76af01b3fc7.md)
-
-[Set Up your Classroom ](./Set-Up-your-Classroom-829e2e79-33c6-4a2d-833a-c4349d662367.md)
-
-[Learning Management Systems](./Learning-Management-Systems-4754b24c-0c49-4e02-a959-8dde76bcf8d8.md)
-
----
 
 ## Why use GitHub Classroom:
 
