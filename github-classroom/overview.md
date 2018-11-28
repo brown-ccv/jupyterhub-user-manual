@@ -1,4 +1,4 @@
-# **GitHub Classroom** 
+# GitHub Classroom
 
 [GitHub Classroom](https://classroom.github.com) makes it easy to distribute materials and assigments to students while maintaining the oweneship of all materials in your own organization. The following diagrams will help you undestrand these workflows. To get started follow to the remider of this section.
 
