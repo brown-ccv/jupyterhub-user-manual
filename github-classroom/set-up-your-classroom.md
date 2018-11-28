@@ -37,7 +37,7 @@ To create assignments, visit your classroom home and select upper right button t
 
 ![](Untitled-96a093f7-8c01-4a01-a03f-29aa107240a8.png)
 
-## Distribute homework link
+### Distribute homework link
 
 ![](Untitled-c529885f-2a07-4515-9439-170b146e2fd1.png)
 
@@ -53,12 +53,12 @@ Clone all homework repositories (with and automated script - coming soon), then:
 
 Possible ways of generating feedback include:
 
-## General Comments:
+### General Comments:
 
 - README
 - CANVAS
 
-## Inline comments:
+### Inline comments:
 
 - Write markdown cells inside the hub - commit and push
     - Student views inside jupyterhub
@@ -67,6 +67,6 @@ Possible ways of generating feedback include:
     - Student views inside github
 - PDF feedback via CANVAS
 
-### Sample Classroom
+#### Sample Classroom
 
 [Sample Classroom](https://classroom.github.com/classrooms/42362824-sample-classroom-jupyterhub-at-brown)
