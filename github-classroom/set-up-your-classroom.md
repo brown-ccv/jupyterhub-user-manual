@@ -19,7 +19,7 @@ This is probably the simplest option. We recommend to name the repository accord
 
 ### Lecture per repository
 
-This likely adds more book-keeping that its necessary, but has the advantage of controlling, dependencies and settings on a per lecture base. You may want to use this setup, for lectures tha
+This likely adds more book-keeping that its necessary, but has the advantage of controlling dependencies and settings on a per lecture basis. You may want to use this setup, for lectures that have very unique code dependencies.
 
 
 ## Distributing Homework
