@@ -19,6 +19,13 @@
 * [Sharing Notebooks](using-your-hub/sharing-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
 
+## GitHub Classroom (Instructor Guide)
+
+* [Overview](github-classroom/GitHub-Classroom-c5c302e2-70ca-457c-b40c-9c6366c7c6b6.md)
+* [Getting Started](github-classroom/Getting-Started-8438bf05-0895-472c-9204-d76af01b3fc7.md)
+* [Set Up your Classroom ](github-classroom/Set-Up-your-Classroom-829e2e79-33c6-4a2d-833a-c4349d662367.md)
+* [Learning Management Systems](github-classroom/Learning-Management-Systems-4754b24c-0c49-4e02-a959-8dde76bcf8d8.md)
+
 ## Help and Support
 
 * [Additional Resources](help-and-support/additional-resources.md)
