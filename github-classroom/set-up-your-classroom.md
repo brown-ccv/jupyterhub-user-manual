@@ -1,6 +1,6 @@
 # Set Up your Classroom 
 
-Follow instructions to create your classroom under your course organization [here](https://classroom.github.com/classrooms). A new semester, would correspond to a new classroom. You will also be asked to set-up a roster. 
+Follow instructions to create your classroom under your course organization [here](https://classroom.github.com/classrooms). A new semester needs a new classroom. You will be asked to set-up a roster. 
 
 **Do not re-use classroom over years**
 
