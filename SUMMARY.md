@@ -35,4 +35,5 @@
 ## AVAILABLE INSTANCES
 
 * [NEUR2060-SPRING19](available-instances/neur2060-spring19.md)
+* [BIOL1595-SPRING19](available-instances/biol1595-spring19.md)
 
