@@ -1,7 +1,3 @@
----
-description: This section provides change made to the Brown JupyterHub project.
----
-
 # Changelog
 
 ## 1.0.1 - 10/03/2018

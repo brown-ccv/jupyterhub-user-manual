@@ -19,16 +19,20 @@
 * [Sharing Notebooks](using-your-hub/sharing-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
 
-## GitHub Classroom (Instructor Guide)
+## GitHub Classroom \(Instructor Guide\)
 
-* [Overview](github-classroom/overview.md)
-* [Prerequisites](github-classroom/prerequisites.md)
-* [Set Up your Classroom ](github-classroom/set-up-your-classroom.md)
-* [Learning Management Systems](github-classroom/lms.md)
+* [Overview](github-classroom-instructor-guide/overview.md)
+* [Prerequisites](github-classroom-instructor-guide/prerequisites.md)
+* [Set Up your Classroom](github-classroom-instructor-guide/set-up-your-classroom.md)
+* [Learning Management Systems](github-classroom-instructor-guide/lms.md)
 
 ## Help and Support
 
 * [Additional Resources](help-and-support/additional-resources.md)
 * [Interface Overview](help-and-support/interface-overview.md)
 * [FAQ](help-and-support/faq.md)
+
+## AVAILABLE INSTANCES
+
+* [NEUR2060-SPRING19](available-instances/neur2060-spring19.md)
 

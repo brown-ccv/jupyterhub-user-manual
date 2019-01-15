@@ -1,9 +1,3 @@
----
-description: >-
-  This page provides additional links and support resources for JupyterHub
-  users.
----
-
 # Additional Resources
 
 ## Introduction to Python Notebooks
