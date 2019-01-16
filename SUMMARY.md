@@ -19,6 +19,10 @@
 * [Sharing Notebooks](using-your-hub/sharing-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
 
+## Github Classroom \(Student Guide\)
+
+* [Overview](github-classroom-student-guide/overview.md)
+
 ## GitHub Classroom \(Instructor Guide\)
 
 * [Overview](github-classroom-instructor-guide/overview.md)
@@ -28,12 +32,13 @@
 
 ## Help and Support
 
-* [Additional Resources](help-and-support/additional-resources.md)
 * [Interface Overview](help-and-support/interface-overview.md)
+* [Additional Resources](help-and-support/additional-resources.md)
 * [FAQ](help-and-support/faq.md)
 
 ## AVAILABLE INSTANCES
 
 * [NEUR2060-SPRING19](available-instances/neur2060-spring19.md)
 * [BIOL1595-SPRING19](available-instances/biol1595-spring19.md)
+* [PHYS1600-Spring19](available-instances/phys1600-spring19.md)
 
