@@ -21,7 +21,10 @@
 
 ## Github Classroom \(Student Guide\)
 
-* [Overview](github-classroom-student-guide/overview.md)
+* [Getting Started](github-classroom-student-guide/overview.md)
+* [Getting Assignments](github-classroom-student-guide/getting-assignments.md)
+* [Saving/Submitting Assignments](github-classroom-student-guide/submitting-assignments.md)
+* [GIT Cheatsheet](github-classroom-student-guide/git-cheatsheet.md)
 
 ## GitHub Classroom \(Instructor Guide\)
 
@@ -40,5 +43,5 @@
 
 * [NEUR2060-SPRING19](available-instances/neur2060-spring19.md)
 * [BIOL1595-SPRING19](available-instances/biol1595-spring19.md)
-* [PHYS1600-Spring19](available-instances/phys1600-spring19.md)
+* [PHYS1600-SPRING19](available-instances/phys1600-spring19.md)
 

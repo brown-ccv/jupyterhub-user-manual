@@ -10,14 +10,14 @@
 
 ## Sign In
 
- Start using JupyterHub by signing in to your account.
+ Start using JupyterHub by signing in to your account for your specific course.
 
-1.  Go to [https://phys70.jupyter.brown.edu](https://phys70.jupyter.brown.edu/) and click **Sign in with Brown GMail Login** 
+1.  Go to [https://\[courseID\].jupyter.brown.edu](https://dev.jupyter.brown.edu) and click **Sign in with Brown GMail Login** \(replace courseID with your corresponding course tag, ie: phys70 for Physics 70 at Brown\)
 2.  Enter your Brown email address \(example: john\_doe@brown.edu\) and password
 
 Once authenticated, you should automatically be logged in and a JupyterHub server begin launching. A status bar will appear with detailed information regarding your server startup.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ![Status page once server has been requested](../.gitbook/assets/screenshot-from-2018-08-29-15-30-05.png)
 

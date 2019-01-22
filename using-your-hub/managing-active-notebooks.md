@@ -8,7 +8,7 @@ Notebook kernels actively running have a small green circle icon to the left of 
 
 Additionally, you can manually manage actively running notebook kernels and terminals by selecting the ![](../.gitbook/assets/image%20%281%29.png) **Running Terminals and Kernels** sidebar option. This will provide a detailed list of all active notebooks with the ability to halt their processes by using the **Shutdown** button
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 {% hint style="info" %}
  Shutting down a notebook kernel does note delete any of its content or data, but simply halts all running code until it has been restarted. 

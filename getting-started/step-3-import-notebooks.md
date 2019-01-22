@@ -1,5 +1,14 @@
 # Step 3: Import Notebooks
 
+## Adding Files From Your Desktop
+
+The easiest approach to adding files to your hub is via the File Uploaded tool. 
+
+1. Select ![](../.gitbook/assets/screenshot-from-2018-09-19-09-14-01.png)File browser from left sidebar
+2. Select the ![](../.gitbook/assets/image%20%2812%29.png)Upload Files button 
+3. Select the files you would like to upload and click **Open**
+4. The files will be automatically added to your hub at your current working directory level.
+
 ## Adding Shared Files to Your Google Drive
 
 In order to work with and save the notebooks shared with you via Google Drive, you must first make a copy of the documents shared with you into your [My Drive](https://drive.google.com/drive/my-drive) section so that you have edit and save permissions. For Phys70 users, the following instructions will help you move the shared "PHYS0070\_Python\_basics" notebook  into your personal drive so that you can run and modify it on JupyterHub.
@@ -14,10 +23,6 @@ In order to work with and save the notebooks shared with you via Google Drive, y
 ![Selecting &quot;Locate&quot; from this popup will take you to the location of the file in your &quot;My Drive&quot; section](../.gitbook/assets/screenshot-from-2018-10-03-14-37-51.png)
 
 A new copy of the file/folder will appear into your [My Drive](https://drive.google.com/drive/my-drive) section of your Google Drive. In order to open this notebook, follow the instructions listed above [Opening an Existing Notebook You Own](launch-an-existing-notebook.md#opening-an-existing-notebook-you-own-from-google-drive)
-
-## Adding Files From Your Desktop
-
-The easiest approach to running notebooks you own on your personal device via the Hub is to first upload them to your Google Drive, and follow the steps listed in the [Step 4: Launch a Notebook](launch-an-existing-notebook.md#opening-an-existing-notebook-you-own-from-google-drive). 
 
 
 

@@ -1,5 +1,14 @@
 # Step 4: Launch a Notebook
 
+## Opening an Existing Notebook on Your Hub
+
+To launch a Jupyter Notebook \(.ipynb\) file on your hub, you can simply double click on it to launch a kernel session with that notebook.
+
+1. Select ![](../.gitbook/assets/screenshot-from-2018-09-19-09-14-01.png) File browser from left sidebar
+2. Locate the notebook you wish to open using the file browser
+3. Double click or right click on the file and select **Open**
+4. A new tab will launch containing your Notebook
+
 ## Opening an Existing Notebook You Own from Google Drive
 
 {% hint style="warning" %}
@@ -8,7 +17,7 @@ Prior to following these steps, please ensure you have followed the [Sync Google
 
 Now that your drive has been synced, navigate to a Jupyter Notebook \(.ipynb\) file you wish to open and double click on it to launch a kernel session with that notebook.
 
-1. Select ![](../.gitbook/assets/image%20%285%29.png) Google Drive browser from left sidebar
+1. Select ![](../.gitbook/assets/image%20%287%29.png) Google Drive browser from left sidebar
 2. Navigate to the "My Drive" folder, then locate the notebook you wish to open using the file browser
 3. Double click or right click on the file and select **Open**
 4. A new tab will launch containing your Notebook

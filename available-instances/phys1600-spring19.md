@@ -1,4 +1,4 @@
-# PHYS1600-Spring19
+# PHYS1600-SPRING19
 
 ## JupyterHub URL
 

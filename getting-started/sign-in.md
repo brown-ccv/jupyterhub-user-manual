@@ -6,7 +6,7 @@ JupyterHub is designed to run documents saved on your Brown University Google Dr
 
 ### To sync your Google Drive account:
 
-1. Select ![](../.gitbook/assets/image%20%285%29.png)Google Drive browser from left sidebar
+1. Select ![](../.gitbook/assets/image%20%287%29.png)Google Drive browser from left sidebar
 2. Sign into Drive. Click **Sign In**
 3. Provide access. Click **Allow**
 4. Contents of Google Drive will appear in the file browser
