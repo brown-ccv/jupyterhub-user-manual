@@ -1,4 +1,4 @@
-# Step 2: Sync Google Drive
+# Sync Google Drive
 
 ## How to Enable Google Drive
 

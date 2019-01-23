@@ -7,10 +7,9 @@
 
 ## Getting Started
 
-* [Step 1: Sign In](getting-started/untitled.md)
-* [Step 2: Sync Google Drive](getting-started/sign-in.md)
-* [Step 3: Import Notebooks](getting-started/step-3-import-notebooks.md)
-* [Step 4: Launch a Notebook](getting-started/launch-an-existing-notebook.md)
+* [Sign In](getting-started/untitled.md)
+* [Import Notebooks](getting-started/step-3-import-notebooks.md)
+* [Launch a Notebook](getting-started/launch-an-existing-notebook.md)
 
 ## Using Your Hub
 
@@ -36,7 +35,10 @@
 
 ## Google Drive
 
-* [Untitled](google-drive/untitled.md)
+* [Sync Google Drive](google-drive/sign-in.md)
+* [Adding Shared Files](google-drive/untitled.md)
+* [Launching Drive Notebooks](google-drive/launching-drive-notebooks.md)
+* [Caveats](google-drive/caveats.md)
 
 ## Help and Support
 

@@ -1,4 +1,4 @@
-# Step 1: Sign In
+# Sign In
 
 ## Before Getting Started
 

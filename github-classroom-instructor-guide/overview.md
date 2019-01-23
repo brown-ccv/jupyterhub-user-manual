@@ -16,12 +16,5 @@
 * Students and you will need to learn a little bit if _**Version Countrol \(git\),**_
 * You may need to spend a class on the basics of _**Git**_
 
-## Workflow Overview:
-
-**Want to suggest changes to the diagrams?**
-
-* [Lucidchart \(assingment\) file for editing](https://www.lucidchart.com/invitations/accept/a3c2c3ed-d664-4c3a-8f26-e68fc2aa6cba)
-* [Lucidchart \(lectures\) file for editing](https://www.lucidchart.com/invitations/accept/76742259-596c-4a33-a76e-ee48dde5d240)
-
 ## 
 
