@@ -15,7 +15,7 @@ In order to begin working on your assigned coding project, you must first accept
 Once your assignment repository has been created, you must get the exact URL to the assignment you wish to download to the hub. To do this, either a\) click the corresponding link for where your assignment has been created \(see image above\), or b\) navigate to your github repository list, then:
 
 1. Navigate to the assignment you wish to work on in GitHub
-2. Click the"Clone or download" button ![](../.gitbook/assets/image%20%2815%29.png)
+2. Click the"Clone or download" button ![](../.gitbook/assets/image%20%2816%29.png)
 3. Copy the Git URL to your clipboard by clicking the clipboard button ![](../.gitbook/assets/image%20%289%29.png) 
 
 ![Following these steps will copy the URL to your clipboard](../.gitbook/assets/cloneurl.png)

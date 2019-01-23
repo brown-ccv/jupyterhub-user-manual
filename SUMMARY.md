@@ -29,9 +29,14 @@
 ## GitHub Classroom \(Instructor Guide\)
 
 * [Overview](github-classroom-instructor-guide/overview.md)
-* [Prerequisites](github-classroom-instructor-guide/prerequisites.md)
-* [Set Up your Classroom](github-classroom-instructor-guide/set-up-your-classroom.md)
+* [Getting Started](github-classroom-instructor-guide/prerequisites.md)
+* [Distributing Homework](github-classroom-instructor-guide/set-up-your-classroom.md)
+* [Distributing Lectures](github-classroom-instructor-guide/distributing-lectures.md)
 * [Learning Management Systems](github-classroom-instructor-guide/lms.md)
+
+## Google Drive
+
+* [Untitled](google-drive/untitled.md)
 
 ## Help and Support
 

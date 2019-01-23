@@ -1,24 +1,8 @@
-# Set Up your Classroom
+# Distributing Homework
 
-Follow instructions to create your classroom under your course organization [here](https://classroom.github.com/classrooms). A new semester needs a new classroom. You will be asked to set-up a roster.
+## Workflow Overview
 
-**Do not re-use classroom over years**
-
-## Distributing Lectures
-
-### All lectures \(per semester\) in one repository
-
-This is probably the simplest option. We recommend to name the repository according to the current semester. For instance:
-
-[brown-jupyterhub/sample\_lectures\_fall\_18](https://github.com/brown-jupyterhub/sample_lectures_fall_18)
-
-* The simplest is to keep the repository public, that way all students can _clone it_  freely
-* You can keep a private version with all your reference lectures and simply add lectures, one at a time
-* If you don't wish to have your lecture material public to the world, the you can distribute the lecture material as an assignment, with no deadline
-
-### Lecture per repository
-
-This likely adds more book-keeping that its necessary, but has the advantage of controlling dependencies and settings on a per lecture basis. You may want to use this setup, for lectures that have very unique code dependencies.
+![Assignment workflow](../.gitbook/assets/github2fjupyterhubworkflow-dfb223a9-2cf3-4a9d-9da4-3a7175ea283c.png)
 
 ## Distributing Homework
 
