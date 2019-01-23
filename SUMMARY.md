@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-* [Sign In](getting-started/untitled.md)
+* [Sign In](getting-started/signin.md)
 * [Import Notebooks](getting-started/step-3-import-notebooks.md)
 * [Launch a Notebook](getting-started/launch-an-existing-notebook.md)
 
