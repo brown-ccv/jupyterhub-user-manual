@@ -12,6 +12,7 @@
 
 ## Using Your Hub
 
+* [Interface Overview](using-your-hub/interface-overview.md)
 * [Creating a New Blank Notebook](using-your-hub/creating-a-new-notebook.md)
 * [Managing Active Notebooks](using-your-hub/managing-active-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
@@ -41,7 +42,6 @@
 
 ## Help and Support
 
-* [Interface Overview](help-and-support/interface-overview.md)
 * [Additional Resources](help-and-support/additional-resources.md)
 * [FAQ](help-and-support/faq.md)
 

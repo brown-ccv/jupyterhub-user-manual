@@ -21,7 +21,7 @@ Once authenticated, you should automatically be logged in and a JupyterHub serve
 
 ![Status page once server has been requested](../.gitbook/assets/screenshot-from-2018-08-29-15-30-05.png)
 
-Once connected, you should arrive at the JupyterHub home page as seen below. For more information about the menu buttons and their functionality, see the [Interface Overview](../help-and-support/interface-overview.md) documentation.
+Once connected, you should arrive at the JupyterHub home page as seen below. For more information about the menu buttons and their functionality, see the [Interface Overview](../using-your-hub/interface-overview.md) documentation.
 
 ![Home launch screen once a new server has been started.](../.gitbook/assets/home.png)
 
