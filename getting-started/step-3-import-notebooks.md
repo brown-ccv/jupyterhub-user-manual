@@ -1,6 +1,6 @@
 # Import Notebooks
 
-There are multiple ways to import existing notebooks into your JupyterHub.You may use clone a Git repository. For an example, see steps [3 and 4 of our GitHub Classroom guide](https://brown-cis.gitbook.io/project/~/edit/drafts/-LWsX2XmaFGPljXGgoPH/github-classroom-student-guide/getting-assignments). You may sync Notebooks from your Google Drive \([see instructions](https://brown-cis.gitbook.io/project/~/edit/drafts/-LWsX2XmaFGPljXGgoPH/google-drive/sign-in)\), or you may upload files directly into the Hub.
+There are multiple ways to import existing notebooks into your JupyterHub.You may use clone a Git repository. For an example, [see steps 3 and 4 of our GitHub Classroom guide](https://brown-cis.gitbook.io/project/github-classroom-student-guide/getting-assignments). You may sync Notebooks from your Google Drive \([see instructions](https://brown-cis.gitbook.io/project/~/edit/drafts/-LWsX2XmaFGPljXGgoPH/google-drive/sign-in)\), or you may upload files directly into the Hub.
 
 ## Adding Files From Your Desktop
 
