@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [About Jupyter](about-jupyterhub.md)
 * [Computing Policies](computing-policy.md)
-* [Changelog](changelog.md)
 
 ## Getting Started
 
