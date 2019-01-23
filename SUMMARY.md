@@ -15,7 +15,6 @@
 
 * [Creating a New Blank Notebook](using-your-hub/creating-a-new-notebook.md)
 * [Managing Active Notebooks](using-your-hub/managing-active-notebooks.md)
-* [Sharing Notebooks](using-your-hub/sharing-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
 
 ## Github Classroom \(Student Guide\)
@@ -38,6 +37,7 @@
 * [Sync Google Drive](google-drive/sign-in.md)
 * [Adding Shared Files](google-drive/untitled.md)
 * [Launching Drive Notebooks](google-drive/launching-drive-notebooks.md)
+* [Sharing Notebooks](google-drive/sharing-notebooks.md)
 * [Caveats](google-drive/caveats.md)
 
 ## Help and Support

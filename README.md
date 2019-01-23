@@ -6,7 +6,7 @@ Welcome to the Brown University JupyterHub Documentation & Quickstart Guide. Thi
 **DISCLAIMER: This service is offered** **to Brown University students, staff, and faculty** **for academic education and research purposes** **only. Users are strictly prohibited from utilizing this service for non-academic purposes as stated in the** [TERMS AND SERVICE AGREEMENT](computing-policy.md#brown-jupyterhub-terms-and-service-agreement)**.**
 {% endhint %}
 
-The Brown JupyterHub is designed to provide an environment to run Python 3.x code without any the need to install any software or packages. JupyterHub is interacted with completely through a web browser, where the code submitted is run on the cloud in the backend.
+The Brown JupyterHub is designed to provide an environment to run Python, Julia or R without the need to install any software or packages. JupyterHub is interacted with completely through a web browser, where the code submitted is run on the cloud in the backend.
 
 ## What Do You Get?
 
