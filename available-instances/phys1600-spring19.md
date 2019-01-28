@@ -2,7 +2,13 @@
 
 ## JupyterHub URL
 
-[https://phys1600.jupyter.brown.edu](https://phys1600.jupyter.brown.edu/hub/login)/
+{% embed url="https://phys1600.jupyter.brown.edu" %}
+
+## GitHub Organization
+
+{% embed url="https://github.com/PHYS1600Spring2019" %}
+
+
 
 
 
