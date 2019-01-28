@@ -52,3 +52,10 @@
 * [BIOL1595-SPRING19](available-instances/biol1595-spring19.md)
 * [PHYS1600-SPRING19](available-instances/phys1600-spring19.md)
 
+## ADVANCED TOPICS
+
+* [Package Installation](advanced-topics/package-installation.md)
+* [Instructor's Checklist](advanced-topics/instructors-checklist.md)
+* [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
+* [Configure Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+
