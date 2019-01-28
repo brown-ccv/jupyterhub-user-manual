@@ -1,5 +1,16 @@
 # Interface Overview
 
+## JupyterLab
+
+JupyterLab is the netxt generation web-interface for Jupyter Notebooks. It enables you to use side by side view,  text editors, terminals, data file viewers, mardown preview and other custom components along with notebooks. Highlighted features are:
+
+* Drag-and-drop to reorder notebook cells and copy them between notebooks.
+* Run code blocks interactively from text files \(.py, .R, .md, .tex, etc.\).
+* Link a code console to a notebook kernel to explore code interactively without cluttering up the notebook with temporary scratch work.
+* Edit popular file formats with live preview, such as Markdown, JSON, CSV, Vega, VegaLite, and more.
+
+To learn more, please see the official documentation at [https://jupyterlab.readthedocs.io/en/latest/user/interface.html](https://jupyterlab.readthedocs.io/en/latest/user/interface.html)
+
 ## Brief JupyterHub Lab Interface
 
 ![](../.gitbook/assets/screenshot-from-2018-09-18-14-59-25.png)
@@ -21,5 +32,5 @@
 15. **Browser Window**: Active browser window. Can be toggled between Hub local \(10\) or Google Drive \(11\) files.
 16. **Active Tabs**: Space to navigate open tabs. Right click to see more notebook options.
 
-For more information regarding the interface of JupyterLab, please see the official documentation at [https://jupyterlab.readthedocs.io/en/latest/user/interface.html](https://jupyterlab.readthedocs.io/en/latest/user/interface.html)
+
 

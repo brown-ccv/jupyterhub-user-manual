@@ -42,8 +42,9 @@
 
 ## Help and Support
 
-* [Additional Resources](help-and-support/additional-resources.md)
+* [Getting Support](help-and-support/getting-support.md)
 * [FAQ](help-and-support/faq.md)
+* [Additional Resources](help-and-support/additional-resources.md)
 
 ## AVAILABLE INSTANCES
 
