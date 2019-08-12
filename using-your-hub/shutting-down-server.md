@@ -4,7 +4,7 @@
 
 Once you are done working, we recommend you manually close down your JupyterHub server by using the JupyterHub Control Panel. This will ensure your session is safely shutdown and the resources you were using are released back to the hub.
 
-1.  Hub &gt; Control Panel
+1.  File &gt; Hub Control Panel
 2.  Click **Stop My Server**.
 
 ![Stop My Server will halt any kernels and logout.](../.gitbook/assets/screenshot-from-2018-09-19-15-49-26.png)
