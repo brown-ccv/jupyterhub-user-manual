@@ -13,6 +13,7 @@
 ## Using Your Hub
 
 * [Interface Overview](using-your-hub/interface-overview.md)
+* [Configuring GitHub](using-your-hub/configuring-github.md)
 * [Creating a New Blank Notebook](using-your-hub/creating-a-new-notebook.md)
 * [Managing Active Notebooks](using-your-hub/managing-active-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
