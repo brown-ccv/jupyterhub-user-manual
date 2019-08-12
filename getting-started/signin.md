@@ -10,9 +10,9 @@
 
 ## Sign In
 
- Start using JupyterHub by signing in to your account for your specific course.
+ Start using JupyterHub by signing in to your account for your class.
 
-1.  Go to [https://\[courseID\].jupyter.brown.edu](https://dev.jupyter.brown.edu) and click **Sign in with Brown GMail Login** \(replace courseID with your corresponding course tag, ie: phys70 for Physics 70 at Brown\)
+1.  Go to [https://\[department\].jupyter.brown.edu](https://dev.jupyter.brown.edu) and click **Sign in with Brown GMail Login** \(replace department with your corresponding course department, ie: phys for Physics 70 or Physics 1400 etc.
 2.  Enter your Brown email address \(example: john\_doe@brown.edu\) and password
 
 Once authenticated, you should automatically be logged in and a JupyterHub server begin launching. A status bar will appear with detailed information regarding your server startup.

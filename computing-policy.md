@@ -29,7 +29,7 @@ In order for policies to be officially approved and published as final, they mus
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Policies, Guidelines, Position Papers & Standards</b>
+      <th style="text-align:left"><b>Policies, Guidelines, Position Papers &amp; Standards</b>
       </th>
       <th style="text-align:left"><b>Effective Date</b>
       </th>
@@ -39,14 +39,14 @@ In order for policies to be officially approved and published as final, they mus
     <tr>
       <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/acceptable-use-policy">Acceptable Use Policy</a>
         <br
-        />» <a href="https://it.brown.edu/computing-policies/acceptable-use-policy/acceptable-use-examples">Acceptable Use: Examples</a>
+        />&#xBB; <a href="https://it.brown.edu/computing-policies/acceptable-use-policy/acceptable-use-examples">Acceptable Use: Examples</a>
       </td>
       <td style="text-align:left">Aug 2003</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/attribute-release-policy-web-single-sign-sso">Attribute Release Policy: Web Single Sign-On ARP</a>
         <br
-        />» <a href="https://it.brown.edu/computing-policies/attribute-release-policy-web-single-sign-sso/attribute-release-defaults-web-sso">Attribute Release Defaults for Web SSO ARP</a>
+        />&#xBB; <a href="https://it.brown.edu/computing-policies/attribute-release-policy-web-single-sign-sso/attribute-release-defaults-web-sso">Attribute Release Defaults for Web SSO ARP</a>
       </td>
       <td style="text-align:left">May 2012</td>
     </tr>
@@ -54,17 +54,17 @@ In order for policies to be officially approved and published as final, they mus
       <td style="text-align:left">
         <p><a href="https://it.brown.edu/computing-policies/policy-handling-brown-restricted-information">Brown Restricted Information, Policy on the Handling of</a> 
           <br
-          />» <a href="https://it.brown.edu/risk-classifications">Risk Classifications</a>
+          />&#xBB; <a href="https://it.brown.edu/risk-classifications">Risk Classifications</a>
           <br
-          />» <a href="https://it.brown.edu/computing-policies/policy-handling-brown-restricted-information/information-comply-policy-handling">Information to Comply with the Policy on Handling BRI</a>
+          />&#xBB; <a href="https://it.brown.edu/computing-policies/policy-handling-brown-restricted-information/information-comply-policy-handling">Information to Comply with the Policy on Handling BRI</a>
           <br
-          />» <a href="https://it.brown.edu/computing-policies/policy-handling-brown-restricted-information/social-security-number-%E2%80%93-usage-and">Social Security Number – Usage and Protection Procedures</a>
+          />&#xBB; <a href="https://it.brown.edu/computing-policies/policy-handling-brown-restricted-information/social-security-number-%E2%80%93-usage-and">Social Security Number &#x2013; Usage and Protection Procedures</a>
           <br
-          />» <a href="https://www.brown.edu/about/administration/data-governance/data-governance-roles">Data Governance Roles and Responsibilities</a>
+          />&#xBB; <a href="https://www.brown.edu/about/administration/data-governance/data-governance-roles">Data Governance Roles and Responsibilities</a>
         </p>
-        <p>» <a href="https://it.brown.edu/sites/it/files/uploads/ConfidentialityAgreement_3.doc">Confidentiality Agreement Form</a>
+        <p>&#xBB; <a href="https://it.brown.edu/sites/it/files/uploads/ConfidentialityAgreement_3.doc">Confidentiality Agreement Form</a>
           <br
-          />» Lost/Stolen/Compromised Device Report Form: <a href="https://it.brown.edu/sites/it/files/uploads/Lost-Stolen-Compromised-Devices_Form_1.docx">Word Doc</a> |
+          />&#xBB; Lost/Stolen/Compromised Device Report Form: <a href="https://it.brown.edu/sites/it/files/uploads/Lost-Stolen-Compromised-Devices_Form_1.docx">Word Doc</a> |
           <a
           href="https://it.brown.edu/sites/it/files/uploads/Lost-Stolen-Compromised-Devices_Form_1.pdf">PDF</a>
         </p>
@@ -89,16 +89,16 @@ In order for policies to be officially approved and published as final, they mus
     <tr>
       <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/copyright-infringement-policy">Copyright Infringement Policy</a>
         <br
-        />» <a href="https://it.brown.edu/computing-policies/copyright-infringement-policy/browns-higher-education-opportunity-act-compliance">Copyright & Brown's Compliance w/ Higher Education Opportunity Act ('08)</a>
+        />&#xBB; <a href="https://it.brown.edu/computing-policies/copyright-infringement-policy/browns-higher-education-opportunity-act-compliance">Copyright &amp; Brown&apos;s Compliance w/ Higher Education Opportunity Act (&apos;08)</a>
         <br
-        />» <a href="http://www.brown.edu/Administration/Copyright/">Copyright & Fair Use Resource Page</a>
+        />&#xBB; <a href="http://www.brown.edu/Administration/Copyright/">Copyright &amp; Fair Use Resource Page</a>
         <br
-        />» <a href="https://it.brown.edu/sites/it/files/Copyright_FAQ_Undergraduates.pdf">Copyright FAQ for Undergraduates</a>
+        />&#xBB; <a href="https://it.brown.edu/sites/it/files/Copyright_FAQ_Undergraduates.pdf">Copyright FAQ for Undergraduates</a>
         <br
-        />» <a href="https://it.brown.edu/sites/it/files/Copyright_FAQ_GraduateStudents.pdf">Copyright FAQ for Graduate Students</a>
+        />&#xBB; <a href="https://it.brown.edu/sites/it/files/Copyright_FAQ_GraduateStudents.pdf">Copyright FAQ for Graduate Students</a>
         <br
-        />» <a href="http://www.brown.edu/information-technology/knowledge-base/article/1292">Use P2P Filesharing Software Safely & Legally</a> (inc.
-        online music & movie alternatives)</td>
+        />&#xBB; <a href="http://www.brown.edu/information-technology/knowledge-base/article/1292">Use P2P Filesharing Software Safely &amp; Legally</a> (inc.
+        online music &amp; movie alternatives)</td>
       <td style="text-align:left">Jul 2003</td>
     </tr>
     <tr>
@@ -115,14 +115,14 @@ In order for policies to be officially approved and published as final, they mus
     <tr>
       <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/electronic-equipment-disposition-policy">Electronic Equipment Disposition Policy</a>
         <br
-        />» <a href="https://it.brown.edu/computing-policies/electronic-equipment-disposition-policy/data-removal-recommendations">Data Removal Recommendations</a>
+        />&#xBB; <a href="https://it.brown.edu/computing-policies/electronic-equipment-disposition-policy/data-removal-recommendations">Data Removal Recommendations</a>
       </td>
       <td style="text-align:left">July 2004</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/electronic-mail-policy">Email Policy</a>
         <br
-        />» <a href="http://support.google.com/a/bin/topic.py?hl=en&amp;topic=9202&amp;parent=&amp;ctx=topic">Gmail Documentation & Support (limits, security)</a>
+        />&#xBB; <a href="http://support.google.com/a/bin/topic.py?hl=en&amp;topic=9202&amp;parent=&amp;ctx=topic">Gmail Documentation &amp; Support (limits, security)</a>
       </td>
       <td style="text-align:left">May 2007</td>
     </tr>
@@ -134,7 +134,7 @@ In order for policies to be officially approved and published as final, they mus
     <tr>
       <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/google-apps-education-terms-service-use">Google Apps for Education (Terms of Service for Use of)</a>
         <br
-        />» <a href="https://ithelp.brown.edu/kb/articles/398-learn-more-about-google-apps-at-brown">About Google Apps at Brown</a>
+        />&#xBB; <a href="https://ithelp.brown.edu/kb/articles/398-learn-more-about-google-apps-at-brown">About Google Apps at Brown</a>
       </td>
       <td style="text-align:left">Sep 2009</td>
     </tr>
@@ -146,9 +146,9 @@ In order for policies to be officially approved and published as final, they mus
     <tr>
       <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/network-connection-policy">Network Connection Policy</a>
         <br
-        />» <a href="https://it.brown.edu/computing-policies/network-connection-policy/guidelines-extension-network-services">Guidelines for Extension of Network Services</a>
+        />&#xBB; <a href="https://it.brown.edu/computing-policies/network-connection-policy/guidelines-extension-network-services">Guidelines for Extension of Network Services</a>
         <br
-        />» <a href="https://it.brown.edu/security-standard-multi-function-network-devices">Security Standard: Multi-Function Network Devices</a>
+        />&#xBB; <a href="https://it.brown.edu/security-standard-multi-function-network-devices">Security Standard: Multi-Function Network Devices</a>
       </td>
       <td style="text-align:left">
         <p>Mar 2004</p>
@@ -156,7 +156,7 @@ In order for policies to be officially approved and published as final, they mus
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="https://www.brown.edu/about/administration/communications/guidelines-best-practices">Social Media Guidelines & Best Practices</a> (developed
+      <td style="text-align:left"><a href="https://www.brown.edu/about/administration/communications/guidelines-best-practices">Social Media Guidelines &amp; Best Practices</a> (developed
         and owned by the <a href="http://www.brown.edu/about/administration/communications/">Office of University Communications</a>)</td>
       <td
       style="text-align:left">- - -</td>
@@ -164,7 +164,7 @@ In order for policies to be officially approved and published as final, they mus
     <tr>
       <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/telecommunications-services-policy">Telecommunications Services Policy</a>
         <br
-        />» <a href="https://it.brown.edu/computing-policies/telecommunications-services-policy/voicemail-policy">Voicemail Policy</a>
+        />&#xBB; <a href="https://it.brown.edu/computing-policies/telecommunications-services-policy/voicemail-policy">Voicemail Policy</a>
       </td>
       <td style="text-align:left">Aug 2004
         <br />Aug 2013</td>
