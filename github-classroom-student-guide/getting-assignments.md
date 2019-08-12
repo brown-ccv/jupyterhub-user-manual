@@ -22,7 +22,22 @@ Once your assignment repository has been created, you must get the exact URL to 
 
 ## Step 3: Download to Hub \(git clone\)
 
-Now that you have created a version of your assignment on GitHub, and have copied the git URL to your clipboard, you may download it to your personal JupyterHub space by using the git clone commands in a terminal session.. 
+Now that you have created a version of your assignment on GitHub, and have copied the git URL to your clipboard, you may download it to your personal JupyterHub space by using  git clone you can do so via the Git Plugin UI or a terminal session
+
+#### Using the Git Plugin Interface
+
+1. Select the ![](../.gitbook/assets/screen-shot-2019-08-12-at-2.06.08-pm.png)Git Clone button circled in blue below
+2. Paste the url at the prompt
+3. A new folder with your repository will show in your file browser
+
+{% hint style="info" %}
+It may take few seconds for your repository folder to show up in the file browser
+{% endhint %}
+
+1. 
+![](../.gitbook/assets/jhub-clone.001.jpeg)
+
+### Clone using a terminal session 
 
 Launch a terminal on JupyterHub by following the instructions below:
 
