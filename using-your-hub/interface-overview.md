@@ -13,7 +13,7 @@ To learn more, please see the official documentation at [https://jupyterlab.read
 
 ## Brief JupyterHub Lab Interface
 
-![](../.gitbook/assets/screenshot-from-2018-09-18-14-59-25.png)
+![](../.gitbook/assets/hub-interface.001.jpeg)
 
 1. **File**: actions related to files and directories
 2. **Edit**: actions related to editing documents and other activities
@@ -25,12 +25,14 @@ To learn more, please see the official documentation at [https://jupyterlab.read
 8. **Settings**: common settings and an advanced settings editor
 9. **Help**: a list of JupyterLab and kernel help links
 10. **File Browser**: Local file browser for JupyterHub. Not synced with Google Drive
-11. **Google Drive Browser**: File browser for your personal synced Brown Google Drive
+11. **Git Plugin Actions**: View of file that have changed and interface to git actions such as stage, commit, push and pull
 12. **Running Terminals and Kernels**: List of active running kernels.
 13. **Command Palette**: Keyboard-driven way to search for and run JupyterLab commands
 14. **Open Tabs**: List of active notebook tabs and related functionality
-15. **Browser Window**: Active browser window. Can be toggled between Hub local \(10\) or Google Drive \(11\) files.
-16. **Active Tabs**: Space to navigate open tabs. Right click to see more notebook options.
-
+15. **Browser Window**: Active browser window.
+16. **Git Clone:** Add or clone a new repository
+17. **Notebook launcher**: Available notebook kernels to launch.
+18. **Terminal** launcher: Launch a new terminal wondow
+19. 20. 21. 
 
 
