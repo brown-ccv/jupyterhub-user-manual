@@ -18,6 +18,11 @@
 * [Managing Active Notebooks](using-your-hub/managing-active-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
 
+## Git Basics
+
+* [Overview](git-basics/overview.md)
+* [git clone](git-basics/git-clone.md)
+
 ## Github Classroom \(Student Guide\)
 
 * [Getting Started](github-classroom-student-guide/overview.md)
