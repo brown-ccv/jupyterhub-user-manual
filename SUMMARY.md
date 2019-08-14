@@ -18,19 +18,19 @@
 * [Managing Active Notebooks](using-your-hub/managing-active-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
 
-## Git Basics
+## Git for Content Management <a id="git-basics"></a>
 
 * [Git Overview](git-basics/overview.md)
 * [Configuring Git and GitHub](git-basics/configure-git-and-github.md)
 * [Downloading Content \(git clone\)](git-basics/git-clone.md)
 * [Saving and Uploading \(git commit/push\)](git-basics/saving-and-uploading-git-commit-push.md)
+* [GIT Cheatsheet](git-basics/git-cheatsheet.md)
 
 ## Github Classroom \(Student Guide\)
 
 * [Getting Started](github-classroom-student-guide/overview.md)
 * [Getting Assignments](github-classroom-student-guide/getting-assignments.md)
 * [Saving/Submitting Assignments](github-classroom-student-guide/submitting-assignments.md)
-* [GIT Cheatsheet](github-classroom-student-guide/git-cheatsheet.md)
 
 ## GitHub Classroom \(Instructor Guide\)
 
