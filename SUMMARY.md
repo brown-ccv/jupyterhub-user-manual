@@ -59,12 +59,6 @@
 * [FAQ](help-and-support/faq.md)
 * [Additional Resources](help-and-support/additional-resources.md)
 
-## AVAILABLE INSTANCES
-
-* [NEUR2060-SPRING19](available-instances/neur2060-spring19.md)
-* [BIOL1595-SPRING19](available-instances/biol1595-spring19.md)
-* [PHYS1600-SPRING19](available-instances/phys1600-spring19.md)
-
 ## ADVANCED TOPICS
 
 * [Package Installation](advanced-topics/package-installation.md)
