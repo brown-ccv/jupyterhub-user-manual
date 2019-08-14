@@ -14,7 +14,6 @@
 ## Using Your Hub
 
 * [Interface Overview](using-your-hub/interface-overview.md)
-* [Configuring GitHub](using-your-hub/configuring-github.md)
 * [Creating a New Blank Notebook](using-your-hub/creating-a-new-notebook.md)
 * [Managing Active Notebooks](using-your-hub/managing-active-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
@@ -22,8 +21,9 @@
 ## Git Basics
 
 * [Overview](git-basics/overview.md)
-* [Configure Git and GitHub](git-basics/configure-git-and-github.md)
+* [Configuring Git and GitHub](git-basics/configure-git-and-github.md)
 * [Downloading Content \(git clone\)](git-basics/git-clone.md)
+* [Saving and Uploading \(git commit/push\)](git-basics/saving-and-uploading-git-commit-push.md)
 
 ## Github Classroom \(Student Guide\)
 
