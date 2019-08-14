@@ -20,7 +20,7 @@
 
 ## Git Basics
 
-* [Overview](git-basics/overview.md)
+* [Git Overview](git-basics/overview.md)
 * [Configuring Git and GitHub](git-basics/configure-git-and-github.md)
 * [Downloading Content \(git clone\)](git-basics/git-clone.md)
 * [Saving and Uploading \(git commit/push\)](git-basics/saving-and-uploading-git-commit-push.md)

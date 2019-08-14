@@ -1,4 +1,4 @@
-# Overview
+# Git Overview
 
 Git is a version control system that enables you to track changes to files. With Git, you are able to revert files back to previous versions, restore deleted files, remove added files and even track down where a particular line of code was introduced.
 
