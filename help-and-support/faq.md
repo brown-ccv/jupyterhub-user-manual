@@ -52,7 +52,7 @@ Yes you can, but please remember that the Brown JupyterHub is for academic purpo
 
 ## Can I use a different programming language such as python 2.x or Julia?
 
-While JupyterHub does support this, Brown CIS is currently only supporting Python 3.x. Sorry for any inconvenience this may cause.
+The kernels supported are tailored to each class. Some environments have multiple supported kernels, while others only support Python 3
 
 ## I can’t find my notebook I was working on last session.
 
