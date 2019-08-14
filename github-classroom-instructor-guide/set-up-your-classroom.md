@@ -40,7 +40,7 @@ Possible ways of generating feedback include:
 * Write markdown cells inside the hub - commit and push
   * Student views inside jupyterhub
   * Could use [https://www.reviewnb.com/](https://www.reviewnb.com/#features) for nicer diff
-* Write to a script .pyb that is kept insync
+* Write to a script .py that is kept insync
   * Student views inside github
 * PDF feedback via CANVAS
 

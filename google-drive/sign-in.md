@@ -1,5 +1,9 @@
 # Sync Google Drive
 
+{% hint style="danger" %}
+Google Drive Extension is currently disabled as it's behaviour was unstabled in the past. We wil continue to examine its stability for future deployements
+{% endhint %}
+
 ## How to Enable Google Drive
 
 JupyterHub is designed to run documents saved on your Brown University Google Drive synced account for long-term backups and version control. In order to utilize this feature, you must first allow your hub to access your drive by clicking **Sign In**. From here, you will be asked to approve the hub to access you drive and can do so by clicking **Allow**. Once completed, you should see the file browser now shows all the directories of you Google drive. Congratulations, you are now properly synced and can begin to load, edit, and run Jupyter Notebook files \(.ipynb\) from your drive on JupyterHub!
