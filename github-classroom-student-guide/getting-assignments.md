@@ -1,4 +1,4 @@
-# Getting Assignments
+# Getting and Uploading Assignments
 
 ## Step 1: Accept Assignment
 
@@ -20,40 +20,11 @@ Once your assignment repository has been created, you must get the exact URL to 
 
 ![Following these steps will copy the URL to your clipboard](../.gitbook/assets/cloneurl.png)
 
-## Step 3: Download to Hub \(git clone\)
+## Step 3: Download to content to JupyterHub
 
-Now that you have created a version of your assignment on GitHub, and have copied the git URL to your clipboard, you may download it to your personal JupyterHub space by using  git clone you can do so via the Git Plugin UI or a terminal session
+Follow the steps in the [Downloading Content](../git-basics/git-clone.md) page in the previous section
 
-#### Using the Git Plugin Interface
+## Step 4: Save and upload changes to your assigment materials
 
-1. Select the ![](../.gitbook/assets/screen-shot-2019-08-12-at-2.06.08-pm.png)Git Clone button circled in blue below
-2. Paste the url at the prompt
-3. A new folder with your repository will show in your file browser
-
-{% hint style="info" %}
-It may take few seconds for your repository folder to show up in the file browser
-{% endhint %}
-
-1. 
-![](../.gitbook/assets/jhub-clone.001.jpeg)
-
-### Clone using a terminal session 
-
-Launch a terminal on JupyterHub by following the instructions below:
-
-1. Select the local![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLCCXzhzhO5fUT5UTHC%2F-LMmBQGJ7BT7b2AWahYH%2F-LMlxyNgzr5hNq7NVLZt%2FScreenshot%20from%202018-09-19%2009-14-01.png?alt=media&token=fe7682b4-5b85-4043-bfca-360ffd79dea8)File Browser from left sidebar
-2. Create a new launcher using the ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLCCXzhzhO5fUT5UTHC%2F-LMnMc81jihkXNmOWoVK%2F-LMnMdrGWVaRcDlycwXr%2FScreenshot%20from%202018-09-19%2015-46-05.png?alt=media&token=ce6cda07-111d-4da1-a23e-4f84f72b82c6)New Launcher button
-3. Click **Terminal** under the **Other** section
-4. A new “Terminal \#” window will appear your browser.
-5. Clone your assignment to the hub using the git clone command
-
-```
-$git clone <gitURL>
-```
-
-{% hint style="info" %}
- Replace &lt;gitURL&gt; with your copied git URL via your clipboard from [Step 2](getting-assignments.md#step-2-copy-assignment-url)
-{% endhint %}
-
-It will ask for your GitHub username and password, which once entered, a copy of the assignment will be downloaded to your hub. To launch a specific notebook file downloaded, see the [Launch a Notebook](../getting-started/launch-an-existing-notebook.md#opening-an-existing-notebook-on-your-hub) steps
+As you work on your assigment, it is a good practice to **commit and push** your changes regularly. Follow the steps in the [Saving and Uploading](../git-basics/saving-and-uploading-git-commit-push.md) page in the previous section
 

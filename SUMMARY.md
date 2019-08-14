@@ -24,13 +24,13 @@
 * [Configuring Git and GitHub](git-basics/configure-git-and-github.md)
 * [Downloading Content \(git clone\)](git-basics/git-clone.md)
 * [Saving and Uploading \(git commit/push\)](git-basics/saving-and-uploading-git-commit-push.md)
+* [Advance Topic: Multiple Remotes](git-basics/advance-topic-multiple-remotes.md)
 * [GIT Cheatsheet](git-basics/git-cheatsheet.md)
 
 ## Github Classroom \(Student Guide\)
 
 * [Getting Started](github-classroom-student-guide/overview.md)
-* [Getting Assignments](github-classroom-student-guide/getting-assignments.md)
-* [Saving/Submitting Assignments](github-classroom-student-guide/submitting-assignments.md)
+* [Getting and Uploading Assignments](github-classroom-student-guide/getting-assignments.md)
 
 ## GitHub Classroom \(Instructor Guide\)
 

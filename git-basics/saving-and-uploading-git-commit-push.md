@@ -47,7 +47,7 @@ The _**-m**_ flag means you are passing a commit message, which must be inside d
 
 ### 2.3 Save Changes to Repository \(git push\)
 
-Once the changes have been stage following [Step 2](../github-classroom-student-guide/submitting-assignments.md#step-2-commit-changes-to-be-saved-git-add-commit), the last step is to actually save the changes to the remote repository using the push command.
+Once the changes have been stage following [Step 2](), the last step is to actually save the changes to the remote repository using the push command.
 
 ```
 $ git push
