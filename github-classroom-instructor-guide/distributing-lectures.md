@@ -2,11 +2,16 @@
 
 ## Option 1: Distribute using nbgitpuller
 
+See [nbgitpuller page](../content-sync-via-link/nbgitpuller.md) to see how to generate links for distributing your repository
 
+{% hint style="danger" %}
+You should **not** use nbgitpuller when:
 
-The first time a particular student clicks the link, a local copy of the repository is made for the student. On successive clicks, the latest version of the remote repository is fetched, and merged automatically with the student’s local copy using a [series of rules](https://jupyterhub.github.io/nbgitpuller/topic/automatic-merging.html#topic-automatic-merging) that ensure students never get merge conflicts.
+1. You are an instructor using a JupyterHub / running notebooks locally to create materials and push them to a git repository. You should just use git directly, since the assumptions and design of nbgitpuller **will** surprise you in unexpected ways if you are pushing with git but pulling with nbgitpuller.
+2. Your students are performing manual git operations on the git repository cloned as well as using nbgitpuller. Mixing manual git operations + automatic nbgitpuller operations is going to cause surprises on an ongoing basis, and should be avoided.
+{% endhint %}
 
-## Option 1: Distribute one lecture materials as assigments
+## Option 2: Distribute one lecture materials as assigments
 
 1. Have the materials for one lecture in a repository  
 2. Distribute as assignment, with its own link, and no deadline
@@ -23,7 +28,7 @@ The first time a particular student clicks the link, a local copy of the reposit
 * There will be a lot of repositories in the organization.
 * No simple mechanism for pushing changes after distributiom
 
-## Option2: All lectures in one repository
+## Option 3: All lectures in one repository
 
 ![Lecture Workflow](../.gitbook/assets/github2fjupyterhublecturesworkflow-6941c84d-791b-41c2-a48a-8a403e9f33b0.png)
 

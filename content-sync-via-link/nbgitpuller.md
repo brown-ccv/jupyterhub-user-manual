@@ -17,4 +17,15 @@ Once you have a repository with the material that you wish to distribute, you ca
 
 ![](../.gitbook/assets/nbgitpuller.png)
 
-1. 
+The first time a particular student clicks the link, a local copy of the repository is made for the student. On successive clicks, the latest version of the remote repository is fetched, and merged automatically with the student’s local copy using a [series of rules](https://jupyterhub.github.io/nbgitpuller/topic/automatic-merging.html#topic-automatic-merging) that ensure students never get merge conflicts.
+
+### When to use nbgitpuller
+
+1. You are running a JupyterHub for a class & want an easy way to distribute materials to your students without them having to understand what git is.
+2. You have a different out of band method for collecting completed assignments / notebooks from students, since they can not just ‘push it back’ via git.
+
+### When to NOT use nbgitpuller
+
+1. You are an instructor using a JupyterHub / running notebooks locally to create materials and push them to a git repository. You should just use git directly, since the assumptions and design of nbgitpuller **will** surprise you in unexpected ways if you are pushing with git but pulling with nbgitpuller.
+2. Your students are performing manual git operations on the git repository cloned as well as using nbgitpuller. Mixing manual git operations + automatic nbgitpuller operations is going to cause surprises on an ongoing basis, and should be avoided.
+
