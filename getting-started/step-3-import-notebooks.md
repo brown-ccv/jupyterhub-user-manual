@@ -1,6 +1,6 @@
 # Import Notebooks
 
-The simplest way to import an existing Jupyter Notebook into your workspace is to uploaded it,
+Depending on your class requierements and on your level of familiaritiy with version control, there are different recommeded ways to sync files from and to your hub. We list serveral options below.
 
 ## Adding Files From Your Desktop
 
@@ -11,13 +11,15 @@ The easiest approach to adding files to your hub is via the File Uploaded tool.
 3. Select the files you would like to upload and click **Open**
 4. The files will be automatically added to your hub at your current working directory level.
 
-## Import from Git/GitHub Repository
-
-Many courses at Brown use GitHub and GitHub classroom to distribute lecture and homework material. For detail instructions, [see steps 3 and 4 of our GitHub Classroom guide](https://brown-cis.gitbook.io/project/github-classroom-student-guide/getting-assignments). 
-
 ## Import via URL
 
-Instructors have the ability to generate an URL that will place the appropiate content in you hub.
+Instructors have the ability to generate an URL that will place the appropiate content in you hub. If you are an Instructor, please refer to the [nbgitpuller guide](../content-sync-via-link/nbgitpuller.md) to generate links.
+
+## Import from Git/GitHub Repository
+
+Many courses at Brown use GitHub and GitHub classroom to distribute lecture and homework material.  If your class uses GitHub and GitHub classroom for content distrubution, you should review the sections **CONTENT SYNC VIA GIT,** and **GITHUB CLASSROOM** from the left navigation bar.
+
+## 
 
 
 

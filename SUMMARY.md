@@ -18,7 +18,11 @@
 * [Managing Active Notebooks](using-your-hub/managing-active-notebooks.md)
 * [Shutting Down Server](using-your-hub/shutting-down-server.md)
 
-## Git for Content Management <a id="git-basics"></a>
+## Content Sync via Link
+
+* [nbgitpuller](content-sync-via-link/nbgitpuller.md)
+
+## CONTENT SYNC VIA GIT <a id="git-basics"></a>
 
 * [Git Overview](git-basics/overview.md)
 * [Create GitHub Account](git-basics/create-github-account.md)
