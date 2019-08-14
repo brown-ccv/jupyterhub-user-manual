@@ -1,3 +1,7 @@
+---
+description: Instructor guide to generate links for easy distribution of materials
+---
+
 # nbgitpuller
 
 [nbgitpuller](https://jupyterhub.github.io/nbgitpuller/index.html) is a tool lets you distribute content in a git repository to your students by having them click a simple link. It relies on [automatic, opinioned conflict resolution](https://jupyterhub.github.io/nbgitpuller/topic/automatic-merging.html#topic-automatic-merging) that ensures that your students are never exposed to `git` directly. This tools comes pre-installed in your JupyterHub
