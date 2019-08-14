@@ -1,4 +1,4 @@
-# Saving and Uploading \(git commit/push\)
+# Saving and Uploading Content
 
 Once you have made changes to an assignment and are ready to save your progress, there are a few steps that you must do prior to closing the hub if using git to keep your changes save. Once again, the interaction with git can be via Plugin user interface or a terminal session
 

@@ -1,10 +1,6 @@
 # Getting Started
 
-## **Step 0: Create a GitHub Account \(if you don't have one\)**
-
-In order to use github classroom, you must first create a github account \(if you already have an existing account, you can skip this step\). To create an account, go to [https://github.com/join](https://github.com/join?source=header-home) and complete the account creation process. We recommend you use an appropriate username is it is publicly visible.
-
-![](../.gitbook/assets/image%20%282%29.png)
+## \*\*\*\*
 
 ## Step 1: Request an organization for your class
 

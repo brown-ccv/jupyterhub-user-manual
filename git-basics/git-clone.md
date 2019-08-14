@@ -1,4 +1,4 @@
-# Downloading Content \(git clone\)
+# Downloading Content
 
 Downloading a GitHub repository into your JupyterHub is done via `git clone`. The operation can be done via the Git Plugin interface that comes pre-installed in your JupyterHub or a terminal session
 

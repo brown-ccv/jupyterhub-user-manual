@@ -21,9 +21,10 @@
 ## Git for Content Management <a id="git-basics"></a>
 
 * [Git Overview](git-basics/overview.md)
-* [Configuring Git and GitHub](git-basics/configure-git-and-github.md)
-* [Downloading Content \(git clone\)](git-basics/git-clone.md)
-* [Saving and Uploading \(git commit/push\)](git-basics/saving-and-uploading-git-commit-push.md)
+* [Create GitHub Account](git-basics/create-github-account.md)
+* [Configuring Git in JupyterHub](git-basics/configure-git-and-github.md)
+* [Downloading Content](git-basics/git-clone.md)
+* [Saving and Uploading Content](git-basics/saving-and-uploading-git-commit-push.md)
 * [Advance Topic: Multiple Remotes](git-basics/advance-topic-multiple-remotes.md)
 * [GIT Cheatsheet](git-basics/git-cheatsheet.md)
 
@@ -64,6 +65,4 @@
 
 * [Package Installation](advanced-topics/package-installation.md)
 * [Instructor's Checklist](advanced-topics/instructors-checklist.md)
-* [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
-* [Configure Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
