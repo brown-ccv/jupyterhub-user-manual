@@ -8,6 +8,12 @@ Welcome to the Brown University JupyterHub Documentation & Quickstart Guide. Thi
 
 The Brown JupyterHub is designed to provide an environment to run Python, Julia or R without the need to install any software or packages. JupyterHub is interacted with completely through a web browser, where the code submitted is run on the cloud in the backend.
 
+The figure below depitcs the concept and technology behid JupyterHub
+
+![JupyterHub Summary](.gitbook/assets/screen-shot-2019-08-14-at-3.18.35-pm.png)
+
+If you wish to learn more about JupyterHub, you can visit the porject's documentation
+
 ## What Do You Get?
 
 On the Brown JupyterHub, each user is provided their own persistent working directory and compute resource allocation unique from each other user. This means the environment you are provided is only accessible by yourself and CIS support staff. 
