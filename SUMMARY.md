@@ -9,6 +9,7 @@
 * [Sign In](getting-started/signin.md)
 * [Import Notebooks](getting-started/step-3-import-notebooks.md)
 * [Launch a Notebook](getting-started/launch-an-existing-notebook.md)
+* [Launch a Terminal Session](getting-started/launch-a-terminal-session.md)
 
 ## Using Your Hub
 
@@ -21,7 +22,8 @@
 ## Git Basics
 
 * [Overview](git-basics/overview.md)
-* [git clone](git-basics/git-clone.md)
+* [Configure Git and GitHub](git-basics/configure-git-and-github.md)
+* [Downloading Content \(git clone\)](git-basics/git-clone.md)
 
 ## Github Classroom \(Student Guide\)
 
