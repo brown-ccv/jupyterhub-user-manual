@@ -20,7 +20,7 @@
 
 ## Content Sync via Link
 
-* [nbgitpuller](content-sync-via-link/nbgitpuller.md)
+* [Link generation](content-sync-via-link/nbgitpuller.md)
 
 ## CONTENT SYNC VIA GIT <a id="git-basics"></a>
 
@@ -45,13 +45,13 @@
 * [Distributing Lectures](github-classroom-instructor-guide/distributing-lectures.md)
 * [Learning Management Systems](github-classroom-instructor-guide/lms.md)
 
-<!-- ## Google Drive
+## Google Drive
 
 * [Sync Google Drive](google-drive/sign-in.md)
 * [Adding Shared Files](google-drive/untitled.md)
 * [Launching Drive Notebooks](google-drive/launching-drive-notebooks.md)
 * [Sharing Notebooks](google-drive/sharing-notebooks.md)
-* [Caveats](google-drive/caveats.md) -->
+* [Caveats](google-drive/caveats.md)
 
 ## Help and Support
 
@@ -63,3 +63,4 @@
 
 * [Package Installation](advanced-topics/package-installation.md)
 * [Instructor's Checklist](advanced-topics/instructors-checklist.md)
+
