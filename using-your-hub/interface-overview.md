@@ -2,7 +2,7 @@
 
 ## JupyterLab
 
-JupyterLab is the netxt generation web-interface for Jupyter Notebooks. It enables you to use side by side view,  text editors, terminals, data file viewers, mardown preview and other custom components along with notebooks. Highlighted features are:
+JupyterLab is the next generation web-interface for Jupyter Notebooks. It enables you to use side by side view,  text editors, terminals, data file viewers, markdown preview and other custom components along with notebooks. Highlighted features are:
 
 * Drag-and-drop to reorder notebook cells and copy them between notebooks.
 * Run code blocks interactively from text files \(.py, .R, .md, .tex, etc.\).
@@ -20,19 +20,19 @@ To learn more, please see the official documentation at [https://jupyterlab.read
 3. **View**: actions that alter the appearance of JupyterLab
 4. **Run**: actions for running code in different activities such as notebooks and code consoles
 5. **Kernel**: actions for managing kernels, which are separate processes for running code
-6. **Hub**: actions related to the hub such as shutdown, logout.
+6. **Hub**: actions related to the hub such as shutdown or logout.
 7. **Tabs**: a list of the open documents and activities in the dock panel
 8. **Settings**: common settings and an advanced settings editor
 9. **Help**: a list of JupyterLab and kernel help links
 10. **File Browser**: Local file browser for JupyterHub. Not synced with Google Drive
-11. **Git Plugin Actions**: View of file that have changed and interface to git actions such as stage, commit, push and pull
+11. **Git Plugin Actions**: View of files that have changed and an interface to git actions such as stage, commit, push and pull
 12. **Running Terminals and Kernels**: List of active running kernels.
 13. **Command Palette**: Keyboard-driven way to search for and run JupyterLab commands
 14. **Open Tabs**: List of active notebook tabs and related functionality
 15. **Browser Window**: Active browser window.
 16. **Git Clone:** Add or clone a new repository
 17. **Notebook launcher**: Available notebook kernels to launch.
-18. **Terminal** launcher: Launch a new terminal wondow
-19. 20. 21. 
+18. **Terminal** **launcher**: Launch a new terminal window
+
 
 

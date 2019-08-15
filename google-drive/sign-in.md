@@ -1,7 +1,7 @@
 # Sync Google Drive
 
 {% hint style="danger" %}
-Google Drive Extension is currently disabled as its behaviour was unstable in the past. We wil continue to examine its stability for future deployements
+Google Drive Extension is currently disabled as its behaviour was unstable in the past. We will continue to examine its stability for future deployments
 {% endhint %}
 
 ## How to Enable Google Drive
