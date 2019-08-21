@@ -67,5 +67,5 @@
 
 * [Package Installation](advanced-topics/package-installation.md)
 * [Accessing Classic Notebook](advanced-topics/accessing-classic-notebook.md)
-* [Presenting out of Jupyter Notebooks](advanced-topics/presenting-out-of-jupyter-notebooks.md)
+* [Slideshow Plugin](advanced-topics/presenting-out-of-jupyter-notebooks.md)
 
