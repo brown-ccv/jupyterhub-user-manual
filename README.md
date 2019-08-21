@@ -1,18 +1,20 @@
 # Introduction
 
-Welcome to the Brown University JupyterHub Documentation & Quickstart Guide. This document is designed to help you get started using Jupyter notebooks served by Google Cloud for use by the Brown University community. The implementation is supported by Brown CIS, and for any questions/comments/concerns regarding this service, please contact the Brown CIS JupyterHub team by emailing jupyter-help@brown.edu. 
+Welcome to the Brown University JupyterHub Documentation & Quickstart Guide. The Brown JupyterHub is designed to provide an environment to run Jupyter Notebooks for Python, Julia, R, and other languages without the need to install any software or packages. JupyterHub is interacted with completely through a web browser. This service is a collaboration supported by various teams in CIS. 
 
-{% hint style="danger" %}
-**DISCLAIMER: This service is offered** **to Brown University students, staff, and faculty** **for academic education and research purposes** **only. Users are strictly prohibited from utilizing this service for non-academic purposes as stated in the** [TERMS AND SERVICE AGREEMENT](computing-policy.md#brown-jupyterhub-terms-and-service-agreement)**.**
-{% endhint %}
+If you are an instructor, looking to request a JupyterHub for your course or workshop, please visit this [link](https://ccv.brown.edu/services/consulting/jupyterhub/). 
 
-The Brown JupyterHub is designed to provide an environment to run Python, Julia or R without the need to install any software or packages. JupyterHub is interacted with completely through a web browser, where the code submitted is run on the cloud in the backend.
+## How to use this guide
 
-The figure below depitcs the concept and technology behid JupyterHub
+This document is designed to help instructors and students use their JupyterHub. This guide also provides extensive documentation on differen workflows used to **distribute** materials to the hub.  Depending on a specific workflow, there are different sections of this documentation that become more relevant. To help you identified those sections that are of interest to you, we make use of the following labels:
 
-![JupyterHub Summary](.gitbook/assets/screen-shot-2019-08-14-at-3.18.35-pm.png)
+👨‍🏫 Instructor guide
 
-If you wish to learn more about JupyterHub, you can visit the project's [documentation](https://jupyterhub.readthedocs.io/en/stable/)
+👩‍💻 Student guide
+
+① Basic usage guide - relevant to instructors and students with **no experience** with _**Git**_
+
+② Advanced usage guide - relevant to instructors and students with **basic to advanced experience** with _**Git**_
 
 ## What Do You Get?
 
