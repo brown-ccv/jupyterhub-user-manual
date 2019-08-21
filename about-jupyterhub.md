@@ -1,4 +1,4 @@
-# About Jupyter
+# About Jupyter Notebooks
 
 ## What is the Jupyter Notebook \(provided by official documentation\)
 

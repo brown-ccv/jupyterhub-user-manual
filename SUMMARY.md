@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Workflows](workflows.md)
-* [About Jupyter](about-jupyterhub.md)
-* [Computing Policies](computing-policy.md)
+* [Choose Your Workflow](workflows.md)
+* [About Jupyter Notebooks](about-jupyterhub.md)
 * [About JupyterHub](about-jupyterhub-1.md)
+* [Computing Policies](computing-policy.md)
 
 ## 👨‍🏫👩‍💻① Getting Started <a id="getting-started"></a>
 
