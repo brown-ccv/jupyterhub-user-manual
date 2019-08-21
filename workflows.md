@@ -2,7 +2,7 @@
 description: "Guide for students \U0001F469‍\U0001F4BBand instructors \U0001F468‍\U0001F3EBto choosing a workflow and finding related documentation"
 ---
 
-# Choose Your Workflow
+# Determine Your Workflow
 
 Depending on how familiar students are to _Version Control_ technologies such as _**Git**_, different workflows may fit best the strategy used to distribute coding materials and assignments. 
 

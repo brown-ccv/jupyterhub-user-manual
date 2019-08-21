@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Choose Your Workflow](workflows.md)
+* [Determine Your Workflow](workflows.md)
 * [About Jupyter Notebooks](about-jupyterhub.md)
 * [About JupyterHub](about-jupyterhub-1.md)
 * [Computing Policies](computing-policy.md)
