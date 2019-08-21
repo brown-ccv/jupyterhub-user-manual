@@ -17,7 +17,7 @@ Instructors have the ability to generate an URL that will place the appropriate 
 
 ## Import from Git/GitHub Repository
 
-Many courses at Brown use GitHub and GitHub classroom to distribute lecture and homework material.  If your class uses GitHub and GitHub classroom for content distribution, you should review the sections [**CONTENT SYNC VIA GIT,**](https://app.gitbook.com/@brown-cis/s/jupyterhub/~/edit/drafts/-LmHpZ4Tjahf8C-b7vvT/git-basics/overview) ****and [**GITHUB CLASSROOM**](https://app.gitbook.com/@brown-cis/s/jupyterhub/~/edit/drafts/-LmHpZ4Tjahf8C-b7vvT/github-classroom-student-guide/overview) ****from the left navigation bar.
+Many courses at Brown use GitHub and GitHub classroom to distribute lecture and homework material.  If your class uses GitHub and GitHub classroom for content distribution, you should review the sections [**CONTENT SYNC VIA GIT,**](../git-basics/overview.md) ****and [**GITHUB CLASSROOM**](../github-classroom-student-guide/overview.md) ****from the left navigation bar.
 
 ## 
 

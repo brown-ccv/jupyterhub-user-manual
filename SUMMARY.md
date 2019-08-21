@@ -59,10 +59,10 @@
 
 * [Getting Support](help-and-support/getting-support.md)
 * [FAQ](help-and-support/faq.md)
+* [Instructor's Checklist](help-and-support/instructors-checklist.md)
 * [Additional Resources](help-and-support/additional-resources.md)
 
 ## 👨‍🏫👩‍💻②ADVANCED TOPICS <a id="advanced-topics"></a>
 
 * [Package Installation](advanced-topics/package-installation.md)
-* [Instructor's Checklist](advanced-topics/instructors-checklist.md)
 

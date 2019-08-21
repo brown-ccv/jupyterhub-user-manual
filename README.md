@@ -2,7 +2,7 @@
 
 Welcome to the Brown University JupyterHub Documentation & Quickstart Guide. The Brown JupyterHub is designed to provide an environment to run Jupyter Notebooks for Python, Julia, R, and other languages without the need to install any software or packages. JupyterHub is interacted with completely through a web browser. This service is a collaboration supported by various teams in CIS. 
 
-If you are an instructor, looking to request a JupyterHub for your course or workshop, please visit this [link](https://ccv.brown.edu/services/consulting/jupyterhub/). 
+If you are an instructor looking to request a JupyterHub for your course or workshop, please visit this [link](https://ccv.brown.edu/services/consulting/jupyterhub/). 
 
 ## How To Use This Guide
 
