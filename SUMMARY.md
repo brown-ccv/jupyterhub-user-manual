@@ -59,6 +59,7 @@
 
 * [Getting Support](help-and-support/getting-support.md)
 * [FAQ](help-and-support/faq.md)
+* [Known Issues/Bugs](help-and-support/known-issues-bugs.md)
 * [Instructor's Checklist](help-and-support/instructors-checklist.md)
 * [Additional Resources](help-and-support/additional-resources.md)
 
