@@ -20,7 +20,7 @@ This document is designed to help instructors and students use their JupyterHub.
 
 On the Brown JupyterHub, each user is provided their own persistent working directory and compute resource allocation unique from each other user. This means the environment you are provided is only accessible by yourself and CIS support staff. 
 
-Once connected to your server, you are provided an isolated workspace where you can write, run, and backup code straight from your synced Google Drive associated with your @Brown.edu GMail account. There are no time limit restrictions or specified lockout times, so please feel free to use your personal JupyterHub notebook server anytime you want and adhere to [CCV's Computing Policies](computing-policy.md)
+Once connected to your server, you are provided an isolated workspace where you can write and run code. There are no time limit restrictions or specified lockout times, so please feel free to use your personal JupyterHub notebook server anytime you want and adhere to [CCV's Computing Policies](computing-policy.md)
 
 
 
