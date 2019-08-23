@@ -61,11 +61,3 @@
 * [Accessing Classic Notebook](advanced-topics/accessing-classic-notebook.md)
 * [Slideshow Plugin](advanced-topics/presenting-out-of-jupyter-notebooks.md)
 
-## ⛔️Google Drive
-
-* [Sync Google Drive](google-drive/sign-in.md)
-* [Adding Shared Files](google-drive/untitled.md)
-* [Launching Drive Notebooks](google-drive/launching-drive-notebooks.md)
-* [Sharing Notebooks](google-drive/sharing-notebooks.md)
-* [Caveats](google-drive/caveats.md)
-
