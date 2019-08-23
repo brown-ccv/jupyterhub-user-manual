@@ -45,18 +45,18 @@ Using this workflow, teachers have the ability to generate a **smart link** that
 * Content sync via git Ⓣ②
 * Content sync via link Ⓣ①
 
-## ② Instructors looking  **dristribute materials to students using git and GitHub.** 
+## ⓉⓈ② Teachers and Students using Git/GitHub and GitHub Classroom
 
 Using Git and GitHub to distribute your materials encourages best practices for software development and additionally adds versioning to changes made to the source code, allowing students to revert to prior versions if necessary. If you will be using Git, we recommend using _**GitHub Classroom**_  to help automate the process.  
 
 #### Related sections in the documentation \(look for  ② in the section title\):
 
-👩‍💻Students  should familiarize themselves with:  
+Ⓢ Students  should familiarize themselves with:  
 
 * Content Sync via GIT
 * GitHub Classroom \(Student Guide\)
 
-👨‍🏫Instructors should familiarize themselves with:
+Ⓣ Teachers should familiarize themselves with:
 
 * Content Sync via Link
 * Content Sync via GIT
