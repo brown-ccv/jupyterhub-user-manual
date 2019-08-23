@@ -17,13 +17,13 @@
 
 Once authenticated, you should automatically be logged in and a JupyterHub server will begin launching. A status bar will appear with detailed information regarding your server startup.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/screen-shot-2019-08-22-at-11.19.39-pm.png)
 
-![Status page once server has been requested](../.gitbook/assets/screenshot-from-2018-08-29-15-30-05.png)
+![](../.gitbook/assets/screen-shot-2019-08-22-at-11.23.24-pm.png)
 
 Once connected, you should arrive at the JupyterHub home page as seen below. For more information about the menu buttons and their functionality, see the [Interface Overview](../using-your-hub/interface-overview.md) documentation.
 
-![Home launch screen once a new server has been started.](../.gitbook/assets/home.png)
+![](../.gitbook/assets/screen-shot-2019-08-22-at-11.22.31-pm.png)
 
 {% hint style="info" %}
  Once you have already started a server, future logins will automatically spawn any active notebooks automatically.

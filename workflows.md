@@ -6,23 +6,21 @@ description: "Guide for students \U0001F469‍\U0001F4BBand instructors \U0001F4
 
 Depending on how familiar students are to _Version Control_ technologies such as _**Git**_, different workflows may fit best the strategy used to distribute coding materials and assignments. 
 
-## ① Distribute using a \(puller\) link
+## ① Students in classes that new to programming and/or version control 
 
-#### Who is this worflow for:
-
-* Instructors looking for a simple way to **dristribute materials to students who will NOT be introduced to git.** 
-
-![Workflow when synching content using a \(special\) link](.gitbook/assets/auto-pull.png)
-
-#### Related sections in the documentation \(look for  ① in the section title\):
-
-👩‍💻Students only need to be familiar with following sections
+ⓢ Students only need to be familiar with following sections
 
 * Getting Started  
 * Using Your Hub
 * Getting Support 
 
-👨‍🏫 Instructors will need to visit the following sub-sections:
+## ① Instructors looking for a simple way to **distribute materials to students who will NOT be introduced to git.** 
+
+![Workflow when synching content using a \(special\) link](.gitbook/assets/auto-pull.png)
+
+#### Related sections in the documentation \(look for  ① in the section title\):
+
+ⓣ Teachers will need to visit the following sub-sections:
 
 * Content sync via git
   * [Git Overview](git-basics/overview.md)
@@ -32,15 +30,8 @@ Depending on how familiar students are to _Version Control_ technologies such as
   * [Saving and Uploading Content](git-basics/saving-and-uploading-git-commit-push.md)
 * Content sync via link
   * [Link generation](content-sync-via-link/nbgitpuller.md)
-    * 
 
-## ② Distribute via GitHub Classroom
-
-
-
-#### Who is this worflow for:
-
-* Instructors looking  **dristribute materials to students using git and GitHub.** 
+## ② Instructors looking  **dristribute materials to students using git and GitHub.** 
 
 Using Git and GitHub to distribute your materials encourages best practices for software development and additionally adds versioning to changes made to the source code, allowing students to revert to prior versions if necessary. If you will be using Git, we recommend using _**GitHub Classroom**_  to help automate the process.  
 

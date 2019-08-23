@@ -10,7 +10,7 @@ This document is designed to help instructors and students use their JupyterHub.
 
 #### Look for your role:
 
-👨‍🏫 Instructor guide _****_👩‍💻 Student guide 
+Ⓣ Teacher guide _**-**_ **Ⓢ** Student guide 
 
 **Look your** [**workflow** ](workflows.md)**usage:**
 
