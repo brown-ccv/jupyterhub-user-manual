@@ -1,35 +1,49 @@
 ---
-description: "Guide for students \U0001F469‍\U0001F4BBand instructors \U0001F468‍\U0001F3EBto choosing a workflow and finding related documentation"
+description: >-
+  Guide for students Ⓢ and instructors Ⓣto choosing a workflow and finding
+  related documentation
 ---
 
 # Determine Your Workflow
 
 Depending on how familiar students are to _Version Control_ technologies such as _**Git**_, different workflows may fit best the strategy used to distribute coding materials and assignments. 
 
-## ① Students in classes that new to programming and/or version control 
+## Ⓢ① Students in classes that are new to programming and/or version control 
 
-ⓢ Students only need to be familiar with following sections
+#### Related sections in the documentation \(look for  ① in the section title\):
 
 * Getting Started  
 * Using Your Hub
 * Getting Support 
 
-## ① Instructors looking for a simple way to **distribute materials to students who will NOT be introduced to git.** 
+## Ⓣ① Teachers looking for a simple way to **distribute materials to students who will NOT be introduced to git.** 
+
+There are two options:
+
+### Direct Upload:
+
+This simple workflow assumes **no git knowledge** from the student nor the instructor. Notebook files are shared via CANVAS and directly uploaded to JupyterHub
+
+![Direct File Upload Workflow](.gitbook/assets/direct-upload.png)
+
+
+
+#### Related sections in the documentation \(look for Ⓣ ① in the section title\):
+
+* Getting Started  
+* Using Your Hub
+* Getting Support 
+
+### Via Smart Link
+
+Using this workflow, teachers have the ability to generate a **smart link** that pulls the materials automatically for students into their JupyterHub. If you are a teacher using this method, you will need **basic familiarity with git and github.**
 
 ![Workflow when synching content using a \(special\) link](.gitbook/assets/auto-pull.png)
 
-#### Related sections in the documentation \(look for  ① in the section title\):
+#### Related sections in the documentation :
 
-ⓣ Teachers will need to visit the following sub-sections:
-
-* Content sync via git
-  * [Git Overview](git-basics/overview.md)
-  * [Create GitHub Account](git-basics/create-github-account.md)
-  * [Configuring Git in JupyterHub](git-basics/configure-git-and-github.md)
-  * [Downloading Content](git-basics/git-clone.md)
-  * [Saving and Uploading Content](git-basics/saving-and-uploading-git-commit-push.md)
-* Content sync via link
-  * [Link generation](content-sync-via-link/nbgitpuller.md)
+* Content sync via git Ⓣ②
+* Content sync via link Ⓣ①
 
 ## ② Instructors looking  **dristribute materials to students using git and GitHub.** 
 
