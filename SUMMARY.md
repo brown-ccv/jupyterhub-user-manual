@@ -60,4 +60,7 @@
 * [Package Installation](advanced-topics/package-installation.md)
 * [Accessing Classic Notebook](advanced-topics/accessing-classic-notebook.md)
 * [Slideshow Plugin](advanced-topics/presenting-out-of-jupyter-notebooks.md)
+* [VSCode](advanced-topics/vscode.md)
+* [RStudio and Shiny](advanced-topics/rstudio-and-shiny.md)
+* [Dash](advanced-topics/dash.md)
 
