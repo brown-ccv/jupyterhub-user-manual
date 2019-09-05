@@ -8,7 +8,7 @@ Downloading a GitHub repository into your JupyterHub is done via `git clone`. Th
 
 ## Prerequisites :
 
-* 1. GitHub **Username** and **Password.** See [Create GitHub Account](create-github-account.md)
+* 1. GitHub **Username,** **Password and Email.** See [Create GitHub Account](create-github-account.md)
   2. You have authenticated your JupyterHub and GitHub Accounts. See [Configuring Git in JupyterHub](configure-git-and-github.md)
 
 ## Clone using a terminal session 
