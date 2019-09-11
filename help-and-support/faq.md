@@ -26,13 +26,13 @@ This means that your server has been halted and is rebooting. This may be becaus
 
 ## My notebooks are running really slow. What is wrong?
 
-You may have several active notebooks running in the background which could be consuming resources. It is recommended you close any unused notebooks as seen in the instructions [Managing Active Notebooks](../using-your-hub/managing-active-notebooks.md#shutting-down-notebooks)
+You may have several active notebooks running in the background which could be consuming resources. It is recommended you close any unused notebooks as seen in the instructions [Managing Active Notebooks](../using-your-hub-1/managing-active-notebooks.md#shutting-down-notebooks)
 
-If the notebook continues to run slow, we recommend you restart the notebooks kernel as seen in the [Managing Active Notebooks](../using-your-hub/managing-active-notebooks.md#restarting-notebook-kernel).
+If the notebook continues to run slow, we recommend you restart the notebooks kernel as seen in the [Managing Active Notebooks](../using-your-hub-1/managing-active-notebooks.md#restarting-notebook-kernel).
 
 ## My notebook is completely frozen! How can I restart it?
 
-First try restarting the notebook kernel as seen in the [Managing Active Notebooks](../using-your-hub/managing-active-notebooks.md#restarting-notebook-kernel). If the issue persists, restart your server by following the instructions in [Shutting Down Server](../using-your-hub/shutting-down-server.md#shutting-down-your-server).
+First try restarting the notebook kernel as seen in the [Managing Active Notebooks](../using-your-hub-1/managing-active-notebooks.md#restarting-notebook-kernel). If the issue persists, restart your server by following the instructions in [Shutting Down Server](../using-your-hub-1/shutting-down-server.md#shutting-down-your-server).
 
 ## I keep getting a "File Save Error" or "Insufficient Permissions". What is wrong?
 
@@ -56,7 +56,7 @@ The kernels supported are tailored to each class. Some environments have multipl
 
 ## I can’t find my notebook I was working on last session.
 
-Ensure you are looking in the right drive folder where you saved it. Please follow the steps provided in the [Launch an Existing Notebook](../getting-started/launch-an-existing-notebook.md#opening-an-existing-notebook).
+Ensure you are looking in the right drive folder where you saved it. Please follow the steps provided in the [Launch an Existing Notebook](../getting-started-1/launch-an-existing-notebook.md#opening-an-existing-notebook).
 
 ## I am having an issue not discussed here. How can I get help?
 

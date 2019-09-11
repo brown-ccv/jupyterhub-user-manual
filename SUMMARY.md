@@ -1,23 +1,27 @@
 # Table of contents
 
-* [Welcome to JupyterHub for  Physics 70](README.md)
-* [help-and-support](help-and-support/README.md)
-  * [Getting Support](help-and-support/getting-support.md)
-  * [Additional Resources](help-and-support/additional-resources.md)
-  * [FAQ](help-and-support/faq.md)
-  * [Instructor's Checklist](help-and-support/instructors-checklist.md)
-  * [Known Issues/Bugs](help-and-support/known-issues-bugs.md)
-* [getting-started](getting-started/README.md)
-  * [Launch a Notebook](getting-started/launch-an-existing-notebook.md)
-  * [Sign In](getting-started/signin.md)
-  * [Launch a Terminal Session](getting-started/launch-a-terminal-session.md)
-  * [Import Notebooks](getting-started/step-3-import-notebooks.md)
-* [using-your-hub](using-your-hub/README.md)
-  * [Creating a New Blank Notebook](using-your-hub/creating-a-new-notebook.md)
-  * [Interface Overview](using-your-hub/interface-overview.md)
-  * [Managing Active Notebooks](using-your-hub/managing-active-notebooks.md)
-  * [Shutting Down Server](using-your-hub/shutting-down-server.md)
-* [Determine Your Workflow](workflows.md)
-* [Computing Policies](computing-policy.md)
+* [JupyterHub for  Physics 70](README.md)
 * [About Jupyter Notebooks](about-jupyterhub.md)
+
+## Getting Started <a id="getting-started-1"></a>
+
+* [Sign In](getting-started-1/signin.md)
+* [Import Notebooks](getting-started-1/step-3-import-notebooks.md)
+* [Launch a Notebook](getting-started-1/launch-an-existing-notebook.md)
+* [Launch a Terminal Session](getting-started-1/launch-a-terminal-session.md)
+
+## USING YOUR HUB <a id="using-your-hub-1"></a>
+
+* [Interface Overview](using-your-hub-1/interface-overview.md)
+* [Creating a New Blank Notebook](using-your-hub-1/creating-a-new-notebook.md)
+* [Managing Active Notebooks](using-your-hub-1/managing-active-notebooks.md)
+* [Shutting Down Server](using-your-hub-1/shutting-down-server.md)
+
+## Help and Support
+
+* [Getting Support](help-and-support/getting-support.md)
+* [Untitled](help-and-support/untitled.md)
+* [Additional Resources](help-and-support/additional-resources.md)
+* [FAQ](help-and-support/faq.md)
+* [Known Issues/Bugs](help-and-support/known-issues-bugs.md)
 

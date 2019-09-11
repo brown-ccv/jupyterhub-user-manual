@@ -6,14 +6,14 @@ Prior to accessing Brown’s JupyterHub, you will need the following:
 
 * A supported web browser \(Chrome, Firefox, Safari, Microsoft Edge\)
 * Be enrolled in a course at Brown that utilizes JupyterHub \(ask your professor\)
-* Have read through the [Computing Policies Terms of Service Agreement](../computing-policy.md#brown-jupyterhub-terms-and-service-agreement)
+* Have read through the [Computing Policies Terms of Service Agreement]()
 
 ## Sign In
 
 Start using JupyterHub by signing in to your account for your class.
 
-1. Go to [https://\[department\].jupyter.brown.edu](https://dev.jupyter.brown.edu) and click "Sign in with Brown Gmail Login"  _**NOTE: \(replace \[department\] with your corresponding course department, ie: phys for Physics 70 or Physics 1400 etc.**_
-2. Enter your Brown email address \(example: john\_doe@brown.edu\) and password
+1. Go to [https://phys.jupyter.brown.edu](https://dev.jupyter.brown.edu) and click "Sign in with Brown Gmail Login"  
+2. Enter your **Brown email** address \(example: john\_doe@brown.edu\) and password
 
 Once authenticated, you should automatically be logged in and a JupyterHub server will begin launching. A status bar will appear with detailed information regarding your server startup.
 
@@ -21,7 +21,7 @@ Once authenticated, you should automatically be logged in and a JupyterHub serve
 
 ![](../.gitbook/assets/screen-shot-2019-08-22-at-11.23.24-pm.png)
 
-Once connected, you should arrive at the JupyterHub home page as seen below. For more information about the menu buttons and their functionality, see the [Interface Overview](../using-your-hub/interface-overview.md) documentation.
+Once connected, you should arrive at the JupyterHub home page as seen below. For more information about the menu buttons and their functionality, see the [Interface Overview](../using-your-hub-1/interface-overview.md) documentation.
 
 ![](../.gitbook/assets/screen-shot-2019-08-22-at-11.22.31-pm.png)
 
