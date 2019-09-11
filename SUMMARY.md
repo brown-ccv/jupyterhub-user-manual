@@ -1,7 +1,6 @@
 # Table of contents
 
 * [JupyterHub for  Physics 70](README.md)
-* [About Jupyter Notebooks](about-jupyterhub.md)
 
 ## Getting Started <a id="getting-started-1"></a>
 
