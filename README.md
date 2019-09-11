@@ -1,3 +1,7 @@
+---
+description: Student Guide to JupyterHub for Physisc70 at Brown
+---
+
 # JupyterHub for  Physics 70
 
 Welcome to your Getting Started Guide for JupyterHub. Your JupyterHub is designed to provide an environment to run Jupyter Notebooks for Python without the need to install any software or packages. JupyterHub is interacted with completely through a web browser. This service is a collaboration supported by various teams in CIS.

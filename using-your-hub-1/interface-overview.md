@@ -9,7 +9,9 @@ JupyterLab is the next generation web-interface for Jupyter Notebooks. It enable
 * Link a code console to a notebook kernel to explore code interactively without cluttering up the notebook with temporary scratch work.
 * Edit popular file formats with live preview, such as Markdown, JSON, CSV, Vega, VegaLite, and more.
 
-To learn more, please see the official documentation at [https://jupyterlab.readthedocs.io/en/latest/user/interface.html](https://jupyterlab.readthedocs.io/en/latest/user/interface.html)
+{% hint style="info" %}
+For more indept guides and videos about JupyterLab, please see the [official documentation](https://jupyterlab.readthedocs.io/en/latest/user/interface.html)  
+{% endhint %}
 
 ## Brief JupyterHub Lab Interface
 
