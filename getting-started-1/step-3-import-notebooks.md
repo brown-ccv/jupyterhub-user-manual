@@ -1,6 +1,6 @@
 # Import Notebooks
 
-Your instructor will distribute Jupyter Notebooks via Canvas. In order to upload the notenook to you JupyterHub  you must follow the following steps
+Your instructor will distribute Jupyter Notebooks via Canvas. In order to upload the notebook to your JupyterHub  you must follow the following steps
 
 #### 1. Download notebook file from Canvas to your laptop
 
