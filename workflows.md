@@ -6,9 +6,9 @@ description: >-
 
 # Determine Your Workflow
 
-Depending on how familiar students are to _Version Control_ technologies such as _**Git**_, different workflows may fit best the strategy used to distribute coding materials and assignments. 
+Depending on how familiar students are to _Version Control_ technologies such as _**Git**_, different workflows may fit best the strategy used to distribute coding materials and assignments.
 
-## Ⓢ① Students in classes that are new to programming and/or version control 
+## Ⓢ① Students in classes that are new to programming and/or version control
 
 #### Related sections in the documentation \(look for  ① in the section title\):
 
@@ -16,7 +16,7 @@ Depending on how familiar students are to _Version Control_ technologies such as
 * Using Your Hub
 * Getting Support 
 
-## Ⓣ① Teachers looking for a simple way to **distribute materials to students who will NOT be introduced to git.** 
+## Ⓣ① Teachers looking for a simple way to **distribute materials to students who will NOT be introduced to git.**
 
 There are two options:
 
@@ -25,8 +25,6 @@ There are two options:
 This simple workflow assumes **no git knowledge** from the student nor the instructor. Notebook files are shared via CANVAS and directly uploaded to JupyterHub
 
 ![Direct File Upload Workflow](.gitbook/assets/direct-upload.png)
-
-
 
 #### Related sections in the documentation \(look for Ⓣ ① in the section title\):
 
@@ -47,11 +45,11 @@ Using this workflow, teachers have the ability to generate a **smart link** that
 
 ## ⓉⓈ② Teachers and Students using Git/GitHub and GitHub Classroom
 
-Using Git and GitHub to distribute your materials encourages best practices for software development and additionally adds versioning to changes made to the source code, allowing students to revert to prior versions if necessary. If you will be using Git, we recommend using _**GitHub Classroom**_  to help automate the process.  
+Using Git and GitHub to distribute your materials encourages best practices for software development and additionally adds versioning to changes made to the source code, allowing students to revert to prior versions if necessary. If you will be using Git, we recommend using _**GitHub Classroom**_ to help automate the process.
 
 #### Related sections in the documentation \(look for  ② in the section title\):
 
-Ⓢ Students  should familiarize themselves with:  
+Ⓢ Students should familiarize themselves with:
 
 * Content Sync via GIT
 * GitHub Classroom \(Student Guide\)
@@ -61,6 +59,4 @@ Using Git and GitHub to distribute your materials encourages best practices for 
 * Content Sync via Link
 * Content Sync via GIT
 * GitHub Classroom \(Instructor Guide\)
-
- 
 

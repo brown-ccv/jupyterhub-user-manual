@@ -9,5 +9,3 @@ To launch a Jupyter Notebook \(.ipynb\) file on your hub, you can simply double 
 3. Double click or right click on the file and select **Open**
 4. A new tab will launch containing your Notebook
 
-## 
-

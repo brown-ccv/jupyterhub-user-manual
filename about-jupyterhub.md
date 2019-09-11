@@ -71,5 +71,3 @@ Internally, notebook documents are [**JSON**](https://en.wikipedia.org/wiki/JSON
 
 Furthermore, any notebook document available from a **public URL on or GitHub can be shared** via [nbviewer](http://nbviewer.jupyter.org/). This service loads the notebook document from the URL and renders it as a static web page. The resulting web page may thus be shared with others **without their needing to install the Jupyter Notebook**.
 
-
-

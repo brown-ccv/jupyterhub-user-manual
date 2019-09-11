@@ -11,7 +11,7 @@ Additionally, you can manually manage actively running notebook kernels and term
 ![](../.gitbook/assets/image%20%285%29.png)
 
 {% hint style="info" %}
- Shutting down a notebook kernel does note delete any of its content or data, but simply halts all running code until it has been restarted. 
+Shutting down a notebook kernel does note delete any of its content or data, but simply halts all running code until it has been restarted.
 {% endhint %}
 
 ## Restarting Notebook Kernel
@@ -19,8 +19,6 @@ Additionally, you can manually manage actively running notebook kernels and term
 Periodically a given notebook may begin to misbehave. This can be due to a poorly constructed segment of code, resource overflows, or other similar events. A common solution to these types of problems is to restart the notebook kernel, which will release any memory and variable states of the notebook and reload them. This can be done by selecting **Kernel &gt; Restart Kernel**.
 
 {% hint style="info" %}
-If you are experiencing poor performance or erratic behavior with a given notebook, it is typically a good first step to shutdown unused notebooks and restart the targeted notebook's kernel.	
+If you are experiencing poor performance or erratic behavior with a given notebook, it is typically a good first step to shutdown unused notebooks and restart the targeted notebook's kernel.
 {% endhint %}
-
-
 

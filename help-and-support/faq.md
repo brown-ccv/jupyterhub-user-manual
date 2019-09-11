@@ -2,11 +2,11 @@
 
 ## Why can't I sign into the JupyterHub?
 
-There are two main reasons why you are unable to log into JupyterHub. 
+There are two main reasons why you are unable to log into JupyterHub.
 
-First, you may not have been approved to use the hub. If you are not actively enrolled in a class at Brown which is utilizing this service, then you will not have access to the Hub. Furthermore, if you previously had access and the class has since ended, permissions to the Hub are revoked at the end of semester. 
+First, you may not have been approved to use the hub. If you are not actively enrolled in a class at Brown which is utilizing this service, then you will not have access to the Hub. Furthermore, if you previously had access and the class has since ended, permissions to the Hub are revoked at the end of semester.
 
-Second, you may be trying to login with an unauthorized email address \(not a @brown.edu login email\). Please ensure you are using your Brown email address, and that you permitted to access the Hub. 
+Second, you may be trying to login with an unauthorized email address \(not a @brown.edu login email\). Please ensure you are using your Brown email address, and that you permitted to access the Hub.
 
 {% hint style="info" %}
 If you believe you should have access to the Hub and don't, please contact us at jupyter-help@brown.edu
@@ -28,7 +28,7 @@ This means that your server has been halted and is rebooting. This may be becaus
 
 You may have several active notebooks running in the background which could be consuming resources. It is recommended you close any unused notebooks as seen in the instructions [Managing Active Notebooks](../using-your-hub/managing-active-notebooks.md#shutting-down-notebooks)
 
-If the notebook continues to run slow, we recommend you restart the notebooks kernel as seen in the [Managing Active Notebooks](../using-your-hub/managing-active-notebooks.md#restarting-notebook-kernel). 
+If the notebook continues to run slow, we recommend you restart the notebooks kernel as seen in the [Managing Active Notebooks](../using-your-hub/managing-active-notebooks.md#restarting-notebook-kernel).
 
 ## My notebook is completely frozen! How can I restart it?
 
@@ -36,7 +36,7 @@ First try restarting the notebook kernel as seen in the [Managing Active Noteboo
 
 ## I keep getting a "File Save Error" or "Insufficient Permissions". What is wrong?
 
-This error happens when you are launching a notebook file from Google Drive which you do not have write permissions to. If you are using a notebook shared through Google Drive which you are not permitted to write to, please first copy the file to your personal Drive by right clicking on the file and selecting "Add to my Drive". 
+This error happens when you are launching a notebook file from Google Drive which you do not have write permissions to. If you are using a notebook shared through Google Drive which you are not permitted to write to, please first copy the file to your personal Drive by right clicking on the file and selecting "Add to my Drive".
 
 ## Can I create notebooks directly on the hub without using Google Drive?
 
@@ -44,7 +44,7 @@ Yes, you can created files and run notebooks on the hub disk space, but they are
 
 ## Can I collaborate with other users on a notebook at the same time?
 
-Currently, the collaborate feature for notebooks has been disabled due to developmental reasons. You can share notebooks with other users the same way you would share any file on Google Drive, but they cannot be actively worked on by multiple users simultaneously. 
+Currently, the collaborate feature for notebooks has been disabled due to developmental reasons. You can share notebooks with other users the same way you would share any file on Google Drive, but they cannot be actively worked on by multiple users simultaneously.
 
 ## I have my own notebooks. How can I run them on the hub?
 

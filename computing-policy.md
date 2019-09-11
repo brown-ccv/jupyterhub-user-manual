@@ -14,7 +14,7 @@ All software and data stored or used on Center and hosted systems must be approp
 
 In addition, users certify compliance with all U.S. export control laws and regulations and are responsible for obtaining export control licenses as may be required before exporting controlled data, information software, or other technology to foreign countries or providing access to foreign persons.
 
-Papers and publications resulting from use of Center facilities must acknowledge this via the inclusion of an appropriate credit similar to the following: "This work was supported by Brown University through the use of the facilities of its Computing and Information Services." 
+Papers and publications resulting from use of Center facilities must acknowledge this via the inclusion of an appropriate credit similar to the following: "This work was supported by Brown University through the use of the facilities of its Computing and Information Services."
 
 Interruptions in Center resource operations and services may be due to planned maintenance or other, unforeseen cause. Users will be notified whether or not maintenance will occur and what systems will be affected at least one week in advance of the maintenance period.
 
@@ -26,33 +26,23 @@ The following documents are official policies of Brown University that are relat
 
 In order for policies to be officially approved and published as final, they must go through a formal policy review process. Should the need arise to have a policy published before the process is complete, the document will be published as an interim policy while the process is completed.
 
+| **Policies, Guidelines, Position Papers & Standards** | **Effective Date** |
+| :--- | :--- |
+
+
+| [Acceptable Use Policy](https://it.brown.edu/computing-policies/acceptable-use-policy) » [Acceptable Use: Examples](https://it.brown.edu/computing-policies/acceptable-use-policy/acceptable-use-examples) | Aug 2003 |
+| :--- | :--- |
+
+
+| [Attribute Release Policy: Web Single Sign-On ARP](https://it.brown.edu/computing-policies/attribute-release-policy-web-single-sign-sso) » [Attribute Release Defaults for Web SSO ARP](https://it.brown.edu/computing-policies/attribute-release-policy-web-single-sign-sso/attribute-release-defaults-web-sso) | May 2012 |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Policies, Guidelines, Position Papers &amp; Standards</b>
-      </th>
-      <th style="text-align:left"><b>Effective Date</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/acceptable-use-policy">Acceptable Use Policy</a>
-        <br
-        />&#xBB; <a href="https://it.brown.edu/computing-policies/acceptable-use-policy/acceptable-use-examples">Acceptable Use: Examples</a>
-      </td>
-      <td style="text-align:left">Aug 2003</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/attribute-release-policy-web-single-sign-sso">Attribute Release Policy: Web Single Sign-On ARP</a>
-        <br
-        />&#xBB; <a href="https://it.brown.edu/computing-policies/attribute-release-policy-web-single-sign-sso/attribute-release-defaults-web-sso">Attribute Release Defaults for Web SSO ARP</a>
-      </td>
-      <td style="text-align:left">May 2012</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><a href="https://it.brown.edu/computing-policies/policy-handling-brown-restricted-information">Brown Restricted Information, Policy on the Handling of</a> 
+      <th style="text-align:left">
+        <p><a href="https://it.brown.edu/computing-policies/policy-handling-brown-restricted-information">Brown Restricted Information, Policy on the Handling of</a>
           <br
           />&#xBB; <a href="https://it.brown.edu/risk-classifications">Risk Classifications</a>
           <br
@@ -68,113 +58,76 @@ In order for policies to be officially approved and published as final, they mus
           <a
           href="https://it.brown.edu/sites/it/files/uploads/Lost-Stolen-Compromised-Devices_Form_1.pdf">PDF</a>
         </p>
-      </td>
-      <td style="text-align:left">April 2012</td>
+      </th>
+      <th style="text-align:left">April 2012</th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table>| [Bulk Email Guidelines](https://it.brown.edu/computing-policies/bulk-email-guidelines) | Dec 2002 |
+| :--- | :--- |
+
+
+| [Computing Accounts Management Policy](https://it.brown.edu/computing-policies/computing-accounts-management-policy) | May 2005 |
+| :--- | :--- |
+
+
+| [Computing Passwords Policy](https://it.brown.edu/computing-policies/computing-passwords-policy) | May 2005 |
+| :--- | :--- |
+
+
+| [Copyright Infringement Policy](https://it.brown.edu/computing-policies/copyright-infringement-policy) » [Copyright & Brown's Compliance w/ Higher Education Opportunity Act \('08\)](https://it.brown.edu/computing-policies/copyright-infringement-policy/browns-higher-education-opportunity-act-compliance) » [Copyright & Fair Use Resource Page](http://www.brown.edu/Administration/Copyright/) » [Copyright FAQ for Undergraduates](https://it.brown.edu/sites/it/files/Copyright_FAQ_Undergraduates.pdf) » [Copyright FAQ for Graduate Students](https://it.brown.edu/sites/it/files/Copyright_FAQ_GraduateStudents.pdf) » [Use P2P Filesharing Software Safely & Legally](http://www.brown.edu/information-technology/knowledge-base/article/1292) \(inc. online music & movie alternatives\) | Jul 2003 |
+| :--- | :--- |
+
+
+| [Digital Signage Strategy and Protocol](https://it.brown.edu/computing-policies/digital-signage-strategy-and-protocol) \(developed and owned by the [Office of University Communications](http://www.brown.edu/about/administration/communications/)\) | Aug 2015 |
+| :--- | :--- |
+
+
+| [Duo Two-Step Authentication: Token Policy](https://it.brown.edu/computing-policies/duo-two-step-authentication-token-policy) | Feb 2016 |
+| :--- | :--- |
+
+
+| [Electronic Equipment Disposition Policy](https://it.brown.edu/computing-policies/electronic-equipment-disposition-policy) » [Data Removal Recommendations](https://it.brown.edu/computing-policies/electronic-equipment-disposition-policy/data-removal-recommendations) | July 2004 |
+| :--- | :--- |
+
+
+| [Email Policy](https://it.brown.edu/computing-policies/electronic-mail-policy) » [Gmail Documentation & Support \(limits, security\)](http://support.google.com/a/bin/topic.py?hl=en&topic=9202&parent=&ctx=topic) | May 2007 |
+| :--- | :--- |
+
+
+| [Emergency Access to Accounts and Information](https://it.brown.edu/computing-policies/emergency-access-accounts-and-information) | May 2007 |
+| :--- | :--- |
+
+
+| [Google Apps for Education \(Terms of Service for Use of\)](https://it.brown.edu/computing-policies/google-apps-education-terms-service-use) » [About Google Apps at Brown](https://ithelp.brown.edu/kb/articles/398-learn-more-about-google-apps-at-brown) | Sep 2009 |
+| :--- | :--- |
+
+
+| [Information Security Incident Response Team \(ISIRT\) Charge](https://it.brown.edu/information-security-incident-response-team-isirt) | Nov 2016 |
+| :--- | :--- |
+
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/bulk-email-guidelines">Bulk Email Guidelines</a>
-      </td>
-      <td style="text-align:left">Dec 2002</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/computing-accounts-management-policy">Computing Accounts Management Policy</a>
-      </td>
-      <td style="text-align:left">May 2005</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/computing-passwords-policy">Computing Passwords Policy</a>
-      </td>
-      <td style="text-align:left">May 2005</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/copyright-infringement-policy">Copyright Infringement Policy</a>
-        <br
-        />&#xBB; <a href="https://it.brown.edu/computing-policies/copyright-infringement-policy/browns-higher-education-opportunity-act-compliance">Copyright &amp; Brown&apos;s Compliance w/ Higher Education Opportunity Act (&apos;08)</a>
-        <br
-        />&#xBB; <a href="http://www.brown.edu/Administration/Copyright/">Copyright &amp; Fair Use Resource Page</a>
-        <br
-        />&#xBB; <a href="https://it.brown.edu/sites/it/files/Copyright_FAQ_Undergraduates.pdf">Copyright FAQ for Undergraduates</a>
-        <br
-        />&#xBB; <a href="https://it.brown.edu/sites/it/files/Copyright_FAQ_GraduateStudents.pdf">Copyright FAQ for Graduate Students</a>
-        <br
-        />&#xBB; <a href="http://www.brown.edu/information-technology/knowledge-base/article/1292">Use P2P Filesharing Software Safely &amp; Legally</a> (inc.
-        online music &amp; movie alternatives)</td>
-      <td style="text-align:left">Jul 2003</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/digital-signage-strategy-and-protocol">Digital Signage Strategy and Protocol</a> (developed
-        and owned by the <a href="http://www.brown.edu/about/administration/communications/">Office of University Communications</a>)</td>
-      <td
-      style="text-align:left">Aug 2015</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/duo-two-step-authentication-token-policy">Duo Two-Step Authentication: Token Policy</a> 
-      </td>
-      <td style="text-align:left">Feb 2016</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/electronic-equipment-disposition-policy">Electronic Equipment Disposition Policy</a>
-        <br
-        />&#xBB; <a href="https://it.brown.edu/computing-policies/electronic-equipment-disposition-policy/data-removal-recommendations">Data Removal Recommendations</a>
-      </td>
-      <td style="text-align:left">July 2004</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/electronic-mail-policy">Email Policy</a>
-        <br
-        />&#xBB; <a href="http://support.google.com/a/bin/topic.py?hl=en&amp;topic=9202&amp;parent=&amp;ctx=topic">Gmail Documentation &amp; Support (limits, security)</a>
-      </td>
-      <td style="text-align:left">May 2007</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/emergency-access-accounts-and-information">Emergency Access to Accounts and Information</a>
-      </td>
-      <td style="text-align:left">May 2007</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/google-apps-education-terms-service-use">Google Apps for Education (Terms of Service for Use of)</a>
-        <br
-        />&#xBB; <a href="https://ithelp.brown.edu/kb/articles/398-learn-more-about-google-apps-at-brown">About Google Apps at Brown</a>
-      </td>
-      <td style="text-align:left">Sep 2009</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/information-security-incident-response-team-isirt">Information Security Incident Response Team (ISIRT) Charge</a>
-      </td>
-      <td style="text-align:left">Nov 2016</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/network-connection-policy">Network Connection Policy</a>
+      <th style="text-align:left"><a href="https://it.brown.edu/computing-policies/network-connection-policy">Network Connection Policy</a>
         <br
         />&#xBB; <a href="https://it.brown.edu/computing-policies/network-connection-policy/guidelines-extension-network-services">Guidelines for Extension of Network Services</a>
         <br
         />&#xBB; <a href="https://it.brown.edu/security-standard-multi-function-network-devices">Security Standard: Multi-Function Network Devices</a>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <p>Mar 2004</p>
         <p>Apr 2009</p>
-      </td>
+      </th>
     </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://www.brown.edu/about/administration/communications/guidelines-best-practices">Social Media Guidelines &amp; Best Practices</a> (developed
-        and owned by the <a href="http://www.brown.edu/about/administration/communications/">Office of University Communications</a>)</td>
-      <td
-      style="text-align:left">- - -</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://it.brown.edu/computing-policies/telecommunications-services-policy">Telecommunications Services Policy</a>
-        <br
-        />&#xBB; <a href="https://it.brown.edu/computing-policies/telecommunications-services-policy/voicemail-policy">Voicemail Policy</a>
-      </td>
-      <td style="text-align:left">Aug 2004
-        <br />Aug 2013</td>
-    </tr>
-  </tbody>
-</table>| **Related Standards and Procedural Documents** |
-| :--- |
-| Computing Accounts & Passwords Office :: [Accounts & Access Policies, Procedures and Other Resources](https://it.brown.edu/get-help/accounts-and-access) |
-| Email Accounts :: [Alternate Email Address Requirements](https://it.brown.edu/computing-policies/electronic-mail-policy/alternate-email-address-requirements) \| [myAccount](http://myaccount.brown.edu/) |
-| Electronic Services Access :: [Computing Privileges](https://it.brown.edu/computing-privileges-access-electronic-services) |
-| Desktop Services: [Microsoft Software](https://ithelp.brown.edu/kb/articles/microsoft-software) \| [Windows OS Support](https://ithelp.brown.edu/kb/articles/103-supported-operating-systems-for-windows) \| [Mac OS Support](https://ithelp.brown.edu/kb/articles/supported-operating-systems-for-macintosh) |
-| Web Publishing Documents    » [Web Publishing Servers, access to via Non-Brown IP \(ISG Position Paper\)](https://it.brown.edu/computing-policies/web-publishing-documents/access-web-publishing-servers-non-brown-ips)    » [Wiki Service Definition](https://it.brown.edu/computing-policies/web-publishing-documents/wiki-service-definition)    » [Wiki Usage Policy](https://it.brown.edu/computing-policies/web-publishing-documents/wiki-usage-policy) |
+  </thead>
+  <tbody></tbody>
+</table>| [Social Media Guidelines & Best Practices](https://www.brown.edu/about/administration/communications/guidelines-best-practices) \(developed and owned by the [Office of University Communications](http://www.brown.edu/about/administration/communications/)\) | - - - |
+| :--- | :--- |
+
+
+| [Telecommunications Services Policy](https://it.brown.edu/computing-policies/telecommunications-services-policy) » [Voicemail Policy](https://it.brown.edu/computing-policies/telecommunications-services-policy/voicemail-policy) | Aug 2004 Aug 2013 |
+| :--- | :--- |
+
 

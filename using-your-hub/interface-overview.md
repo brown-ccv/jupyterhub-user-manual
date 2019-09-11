@@ -2,7 +2,7 @@
 
 ## JupyterLab
 
-JupyterLab is the next generation web-interface for Jupyter Notebooks. It enables you to use side by side view,  text editors, terminals, data file viewers, markdown preview and other custom components along with notebooks. Highlighted features are:
+JupyterLab is the next generation web-interface for Jupyter Notebooks. It enables you to use side by side view, text editors, terminals, data file viewers, markdown preview and other custom components along with notebooks. Highlighted features are:
 
 * Drag-and-drop to reorder notebook cells and copy them between notebooks.
 * Run code blocks interactively from text files \(.py, .R, .md, .tex, etc.\).
@@ -33,6 +33,4 @@ To learn more, please see the official documentation at [https://jupyterlab.read
 16. **Git Clone:** Add or clone a new repository
 17. **Notebook launcher**: Available notebook kernels to launch.
 18. **Terminal** **launcher**: Launch a new terminal window
-
-
 
