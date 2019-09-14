@@ -12,7 +12,7 @@ This document is designed to help instructors and students use their JupyterHub.
 
 Ⓣ Teacher guide _**-**_ **Ⓢ** Student guide 
 
-**Look your** [**workflow** ](workflows.md)**usage:**
+**Look for your** [**workflow** ](workflows.md)**usage:**
 
 ① Basic usage guide ② Advanced usage guide
 
