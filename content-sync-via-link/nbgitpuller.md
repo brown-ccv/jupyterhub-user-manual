@@ -12,7 +12,7 @@ Once you have a repository with the material that you wish to distribute, you ca
 
 1. This is the link generated. It can be copied and sent to your students
 2. The url of your hub
-3. The git repository where you have published your content. Please notice that the url starts can start either with **git://** or **https://.** If you are not expencting your students to have configured github authentication nor have a GitHub account, make sure you use **git://.** 
+3. The git repository where you have published your content. Please notice that the url can start either with **git://** or **https://.** If you are not expencting your students to have configured github authentication nor have a GitHub account, make sure you use **git://.** 
 4. Notice that your URL **does not** end in .git. \(This is often the case if you are pasting URL from GitHub\)
 5. The branch of the repository you wish to distribute
 6. Optionally, a particular file or directory you want to automatically open for your students once the repository has been synchronized.
