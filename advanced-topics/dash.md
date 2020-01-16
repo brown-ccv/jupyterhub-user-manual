@@ -1,5 +1,5 @@
 ---
-description: JupyterLab Dash extension
+description: JupyterLab Dash extension (only available by request)
 ---
 
 # Dash
