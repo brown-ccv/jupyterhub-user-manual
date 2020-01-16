@@ -3,7 +3,7 @@
 We recommend syncying content to and from JupyterHub using Git and GitHub. However, before you can start, we will need to tell Git and GitHub who we are. JupyterHub contains an utility program that simplifies the process of this configuration which consists of the following steps
 
 1. Make sure you have your **GitHub User Handle** and **Password**
-2. If you are using **Two-factor Authentication** for your github, then you will need to set up a [personal access token](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line) and use such token as your password
+2. If you are using **Two-factor Authentication** for your github, then you will need to set up a [personal access token](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line) and follow [this instructions ](configure-git-and-github.md#advanced-topic-the-details-behind-gitconfig)
 3. Inside your Jupyter Hub [Launch a terminal session ](../getting-started/launch-a-terminal-session.md)
 4. In the terminal type the `gitconfig` command:`gitconfig -u github_username -n your_name -e your@email.com`
 5. Enter your GitHub password when asked.
@@ -18,8 +18,21 @@ You are all set to start using Git and GitHub inside JupyterHub!
 
 ## Advanced Topic: The details behind gitconfig
 
-While we provide `gitconfig` as an utility function, there is no magic behind it. If you prefer carrying out the configuration on your own, follow the instructions in the following links
+While we provide `gitconfig` as an utility function, there is no magic behind it. If you prefer carrying out the configuration on your own, follow the instructions in the following links. You will also need to carryout this steps if you have two factor authentication enabeled.
 
-* [Configure Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
-* [Connecting to GitHub with SSH keys](https://help.github.com/articles/connecting-to-github-with-ssh/)
+### 1. Configure Git
+
+```text
+    git config --global --add user.name "$NAME"
+    git config --global --add user.email $EMAIL
+    git config --global --add url."git@github.com:".insteadOf "https://github.com/"
+```
+
+
+
+### 2. Connecting to GitHub with SSH keys
+
+Follow GitHub's instructions:; [https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+
+
 
