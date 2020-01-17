@@ -4,7 +4,7 @@ description: Things to remember before a class that uses JupyterHub
 
 # Instructor's Checklist
 
-* **Share** this [Brown University JupyterHub Guide](https://docs.ccv.brown.edu/jupyterhub)  with all students. 
+* **Share** [https://docs.ccv.brown.edu/jupyterhub/](https://docs.ccv.brown.edu/jupyterhub/)  with all students. 
 * If planning to use hub during class time, have the students launch their hubs at the very beginning of class \(can experience a few minutes of bootup time if large spike active hubs\)
 * Familiarize yourself with the  **Admin Tab**. You can access by visitin File -&gt; Hub Control or by visiting https://&lt;yourclassid&gt;.[jupyter.brown.edu/hub/admin](http://jupyter.brown.edu/hub/admin). Through this interface you can stop and restart their server if they are having troble accessing their environment.
 
