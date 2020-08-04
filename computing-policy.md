@@ -170,7 +170,9 @@ In order for policies to be officially approved and published as final, they mus
         <br />Aug 2013</td>
     </tr>
   </tbody>
-</table>| **Related Standards and Procedural Documents** |
+</table>
+
+| **Related Standards and Procedural Documents** |
 | :--- |
 | Computing Accounts & Passwords Office :: [Accounts & Access Policies, Procedures and Other Resources](https://it.brown.edu/get-help/accounts-and-access) |
 | Email Accounts :: [Alternate Email Address Requirements](https://it.brown.edu/computing-policies/electronic-mail-policy/alternate-email-address-requirements) \| [myAccount](http://myaccount.brown.edu/) |

@@ -31,7 +31,6 @@
 * [Configuring Git in JupyterHub](git-basics/configure-git-and-github.md)
 * [Downloading Content](git-basics/git-clone.md)
 * [Saving and Uploading Content](git-basics/saving-and-uploading-git-commit-push.md)
-* [Advance Topic: Multiple Remotes](git-basics/advance-topic-multiple-remotes.md)
 * [GIT Cheatsheet](git-basics/git-cheatsheet.md)
 
 ## ⓢ② Github Classroom \(Student Guide\) <a id="github-classroom-student-guide"></a>

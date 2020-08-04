@@ -8,13 +8,8 @@ If you are an instructor looking to request a JupyterHub for your course or work
 
 This document is designed to help instructors and students use their JupyterHub. This guide also provides extensive documentation on different [workflows](workflows.md) used to **distribute** materials to the hub.  Depending on a specific workflow, there are different sections of this documentation that are more relevant to you. To help you identified those sections, we make use of the following labels depending on your role and workflow
 
-#### Look for your role:
-
-Ⓣ Teacher guide _**-**_ **Ⓢ** Student guide 
-
-**Look for your** [**workflow** ](workflows.md)**usage:**
-
-① Basic usage guide ② Advanced usage guide
+1. \*\*\*\*[**Determine your workflow**](workflows.md)\*\*\*\*
+2. Use labels as a guide to revelant sections ① Basic usage guide ② Advanced usage guide Ⓣ Teacher guide _**-**_ **Ⓢ** Student guide 
 
 ## What Do You Get?
 

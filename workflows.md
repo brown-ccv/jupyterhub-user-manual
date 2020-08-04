@@ -10,11 +10,11 @@ Depending on how familiar students are to _Version Control_ technologies such as
 
 ## Ⓢ① Students in classes that are new to programming and/or version control 
 
-#### Related sections in the documentation \(look for  ① in the section title\):
+#### Related sections in the documentation \(look for  ① and Ⓢ  in the section title\):
 
-* Getting Started  
-* Using Your Hub
-* Getting Support 
+* [Getting Started ](getting-started/signin.md) 
+* [Using Your Hub](using-your-hub/interface-overview.md)
+* [Getting Support ](help-and-support/getting-support.md)
 
 ## Ⓣ① Teachers looking for a simple way to **distribute materials to students who will NOT be introduced to git.** 
 
@@ -30,9 +30,8 @@ This simple workflow assumes **no git knowledge** from the student nor the instr
 
 #### Related sections in the documentation \(look for Ⓣ ① in the section title\):
 
-* Getting Started  
-* Using Your Hub
-* Getting Support 
+* [Getting Started ](github-classroom-student-guide/overview.md) 
+* [Using Your Hub](getting-started/signin.md)
 
 ### Via Smart Link
 
@@ -42,8 +41,7 @@ Using this workflow, teachers have the ability to generate a **smart link** that
 
 #### Related sections in the documentation :
 
-* Content sync via git Ⓣ②
-* Content sync via link Ⓣ①
+* [Content sync via link Ⓣ①](content-sync-via-link/nbgitpuller.md)
 
 ## ⓉⓈ② Teachers and Students using Git/GitHub and GitHub Classroom
 
@@ -53,14 +51,13 @@ Using Git and GitHub to distribute your materials encourages best practices for 
 
 Ⓢ Students  should familiarize themselves with:  
 
-* Content Sync via GIT
-* GitHub Classroom \(Student Guide\)
+* [Content Sync via GIT](git-basics/overview.md)
+* [GitHub Classroom \(Student Guide\)](github-classroom-student-guide/overview.md)
 
 Ⓣ Teachers should familiarize themselves with:
 
-* Content Sync via Link
-* Content Sync via GIT
-* GitHub Classroom \(Instructor Guide\)
+* [Content Sync via GIT](git-basics/overview.md)
+* [GitHub Classroom \(Instructor Guide\)](github-classroom-instructor-guide/overview.md)
 
  
 
