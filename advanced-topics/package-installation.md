@@ -10,3 +10,16 @@ If you are a **student** and want to try additional libraries that are not pre-i
 * To achieve persistent installs using pip you can use: `pip install --user <package>`
 * If installation is via Conda the best approach maybe to create a new environment and set the path to be somewhere inside HOME
 
+### Installing Julia Packages
+
+To install Julia packages, first activate a project in a new folder or your home.
+
+```text
+julia
+]activate .
+```
+
+Then, install packages in that Project. That will create a Project.toml and a Manifest.toml in that folder. 
+
+For more information, check [Julia's Pkg Documentation](https://julialang.github.io/Pkg.jl/v1.5/environments/#Creating-your-own-projects-1). 
+

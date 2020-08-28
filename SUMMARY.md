@@ -28,7 +28,7 @@
 
 * [Git Overview](git-basics/overview.md)
 * [Create GitHub Account](git-basics/create-github-account.md)
-* [Configuring Git in JupyterHub](git-basics/configure-git-and-github.md)
+* [Set Up Git in JupyterHub](git-basics/configure-git-and-github.md)
 * [Downloading Content](git-basics/git-clone.md)
 * [Saving and Uploading Content](git-basics/saving-and-uploading-git-commit-push.md)
 * [GIT Cheatsheet](git-basics/git-cheatsheet.md)
@@ -60,6 +60,12 @@
 * [Accessing Classic Notebook](advanced-topics/accessing-classic-notebook.md)
 * [Slideshow Plugin](advanced-topics/presenting-out-of-jupyter-notebooks.md)
 * [VSCode](advanced-topics/vscode.md)
+* [SQLite](advanced-topics/sqlite.md)
 * [RStudio and Shiny](advanced-topics/rstudio-and-shiny.md)
 * [Dash](advanced-topics/dash.md)
+
+## Reproducibility
+
+* [Replicating the Environment](reproducibility/replicating.md)
+* [Using Docker](reproducibility/using-docker.md)
 
