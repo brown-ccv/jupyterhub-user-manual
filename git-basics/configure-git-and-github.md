@@ -1,6 +1,6 @@
 # Set Up Git in JupyterHub
 
-We recommend syncing content to and from JupyterHub using Git and GitHub. However, before you can start, we will need to tell Git and GitHub who we are. JupyterHub contains an utility program that simplifies the process of this configuration which consists of the following steps
+We recommend syncing content to and from JupyterHub using Git and GitHub. However, before you can start, we will need to tell Git and GitHub who we are. 
 
 ### 1. Configure Git
 
@@ -39,12 +39,6 @@ This creates a new ssh key, using the provided email as a label.
 ```
 > Enter passphrase (empty for no passphrase): [Type a passphrase]
 > Enter same passphrase again: [Type passphrase again]
-```
-
-```text
-    git config --global --add user.name "$NAME"
-    git config --global --add user.email $EMAIL
-    git config --global --add url."git@github.com:".insteadOf "https://github.com/"
 ```
 
 5. Add your SSH Key. The command below will show the public SSH key on the terminal. Copy the entire key, starting with `ssh-rsa` and ending with your email.
