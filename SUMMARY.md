@@ -6,6 +6,14 @@
 * [About JupyterHub](about-jupyterhub-1.md)
 * [Computing Policies](computing-policy.md)
 
+## ❓Help and Support
+
+* [Getting Support](help-and-support/getting-support.md)
+* [FAQ](help-and-support/faq.md)
+* [Known Issues/Bugs](help-and-support/known-issues-bugs.md)
+* [Instructor's Checklist](help-and-support/instructors-checklist.md)
+* [Additional Resources](help-and-support/additional-resources.md)
+
 ## ⓢⓣ① Getting Started <a id="getting-started"></a>
 
 * [Sign In](getting-started/signin.md)
@@ -45,14 +53,6 @@
 * [Distributing Homework](github-classroom-instructor-guide/set-up-your-classroom.md)
 * [Distributing Lectures](github-classroom-instructor-guide/distributing-lectures.md)
 * [Learning Management Systems](github-classroom-instructor-guide/lms.md)
-
-## ❓Help and Support
-
-* [Getting Support](help-and-support/getting-support.md)
-* [FAQ](help-and-support/faq.md)
-* [Known Issues/Bugs](help-and-support/known-issues-bugs.md)
-* [Instructor's Checklist](help-and-support/instructors-checklist.md)
-* [Additional Resources](help-and-support/additional-resources.md)
 
 ## ⓢⓣ②ADVANCED TOPICS <a id="advanced-topics"></a>
 
